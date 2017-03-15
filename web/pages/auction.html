@@ -1,0 +1,202 @@
+<style>
+/* donorship Info text styles */
+body {
+	font-family:"Arial";
+	font-size:medium;
+}
+p {
+	font-family:"Arial";
+	font-size:medium;
+	white-space:normal;
+}
+li {
+	font-family:"Arial";
+	font-size:85%;
+	white-space:normal;
+}
+#donorlist h3 {
+	font-family:"Arial";
+	font-size:medium;
+	font-style:normal;
+	font-weight:normal;
+	white-space:normal;
+}
+</style>
+
+
+All of the wonderful items below will be on display and available for you to bid on. If you are looking to donate and are in need of an idea, take a look at the items from <a href="http://www.cabinfeverbeanbags.org/p/donor.html" target="_blank">last years auction</a>. If you are still undecided feel free to contact someone on the board or email us at <a href="mailto:cfbeanbag@gmail.com">cfbeanbag@gmail.com</a>.
+<p>
+<b>Thank You</b> for your consideration to give this year and join us in giving an equally big <b>Thanks</b> to all the those who have graciously given in the past and made our event possible. 
+<br/>
+<h3>This Years Silent Auction Items</h3>
+<div class="separator" id="donorlist">
+
+<!--
+<ul style="list-style-type: none;">
+<li>
+	<a href="http://www.facebook.com/photo.php?fbid=4666207728274&set=oa.381515105262022&type=1&theater" target="_blank">(2) $20 Gift Cards</a>
+	 - 
+	<a href="http://www.bearsdenbyron.com/" target="_blank">The Bears Den</a> 
+</li>
+<li>
+	<a href="http://www.facebook.com/photo.php?fbid=4666150046832&set=oa.381515105262022&type=1&theater" target="_blank">Wine Tasting for 4 Gift Card</a> - 
+	<a href="http://cannonriverwinery.com/" target="_blank">Cannon River Winery</a> 
+</li>
+</ul>
+-->
+
+</div>
+<br />
+<h2>
+Join Us!</h2>
+<div id="becomeadonor">
+Would you like to be a donor or donor?<br />
+Please check the <a href="http://www.cabinfeverbeanbags.org/p/donor.html" target="_blank">donor page</a> for additional information and send an email to <a href="mailto:cfbeanbag@gmail.com">cfbeanbag@gmail.com</a> and we will get back to you!<br />
+<form action="mailto:cfbeanbag@gmail.com" enctype="multipart/form-data" method="post" name="Emaildonor">
+</form>
+</div>
+
+
+
+
+<script type="text/javascript">
+// load the content remotely
+var webhome = 'https://dl.dropboxusercontent.com/u/14824619/CF/web';
+$(document).ready(function(){
+    $('#donorlist').load(webhome+'/raw_auction.html', function(){
+		// Define the donor category headings
+		$('.category').each(function(index){
+			var $c = $(this);
+			var $name = $c.attr('name');
+			$c.prepend('<h2>'+$name+'</h2>');
+		});
+		// randomize the donors at each level
+		$('#donorList .category').each(function(index){
+			$(this).randomize('.donor');
+		});
+		// now render them on the page
+	    $('.ticketItem').each(function(index){
+			var $s = $(this);
+			var $name = $s.attr('donor');
+			var $desc = $s.attr('desc');
+			var $url = $s.attr('url');
+			var $img = $s.attr('img');
+			if (!$img) {
+				$img = webhome+'/img/auction/'+$desc+'.png';
+			} else if (!$img.toLowerCase().startsWith("http")) {
+				$img = webhome+'/img/auction/'+$img;
+			}
+			var $value = $s.attr('value');
+			$s.append('<a href="'+$img+'" target="_blank">'+$desc+'</a> - '+
+					  '<a href="'+$url+'" target="_blank">'+$name+'</a>');
+	    });
+    });
+});
+</script>
+
+
+<script type="text/javascript">
+  // load the content remotely
+  $(document).ready(function(){
+    // Request donor data as remote json object
+    requestData('raw_auction.html').done(function(){
+      // populate the donorList div with returned data
+      var dnrLstData = getData('raw_auction.html');
+      var $donorList = $('#donorList');
+      for (var dnrCatKey in dnrLstData) {
+        var dnrCatData = dnrLstData[dnrCatKey];
+        var $donorCat = $('<div/>', {'class': 'category', 'name': dnrCatKey});
+        $donorList.append($donorCat);
+        for (var dnrKey in dnrCatData) {
+          var dnrData = dnrCatData[dnrKey];
+          var $donor = $('<div/>', {'class': 'donor'});
+          $donorCat.append($donor);
+          for (var dnrAttKey in dnrData) {
+            $donor.attr(dnrAttKey, dnrData[dnrAttKey]);
+          }
+        }
+      }
+      // Define the donor category headings
+      $('.category').each(function(index){
+         var $c = $(this);
+         var $name = $c.attr('name');
+         $c.prepend('<h2>'+$name+'</h2>');
+      });
+      // randomize the donors at each level
+      $('#donorList .category').each(function(index){
+         $(this).randomize('.donor');
+      });
+      // now render them on the page
+      if (usingflipwall) {
+        // construct flipwall
+        $('.donor').each(function(index){
+          var $s = $(this);
+          var $name = $s.attr('name');
+          var $url = $s.attr('url');
+          var $img = $s.attr('img');
+          if (!$img) {
+             $img = dataHome+'/img/donors/'+$name+'.png';
+          } else if (!$img.toLowerCase().startsWith("http")) {
+             $img = dataHome+'/img/donors/'+$img;
+          }
+          $s.attr('title','Click to flip');
+          $s.append('<div class="donorFlip"><img src="'+$img+'"/></div>');
+          $s.append('<div class="donorData">'+
+                        '<div class="donorDescription">'+$name+'</div>'+
+                        '<div class="donorURL"><a href="'+$url+'" target="_blank">'+$url+'</a></div>'+
+                    '</div>');
+        });
+      } else {
+        // create using old fashion list
+        $('.donor').each(function(index){
+          var $s = $(this);
+          var $name = $s.attr('name');
+          var $url = $s.attr('url');
+          var $img = $s.attr('img');
+          if (!$img) {
+             $img = dataHome+'/img/donors/'+$name+'.png';
+          } else if (!$img.toLowerCase().startsWith("http")) {
+             $img = dataHome+'/img/donors/'+$img;
+          }
+          $s.append('<br><br><div class="donorFlip">'+
+                        '<a href="'+$url+'" target="_blank">'+
+                            '<img src="'+$img+'"/>'+
+                        '</a>'+
+                    '</div>');
+        });
+      }
+    });
+
+    $(document).on('click', '.donorFlip', function(){
+        // $(this) point to the clicked .donorFlip element (caching it in elem for speed):
+        var elem = $(this);
+        // data('flipped') is a flag we set when we flip the element:
+        if(elem.data('flipped'))
+        {
+            // If the element has already been flipped, use the revertFlip method
+            // defined by the plug-in to revert to the default state automatically:
+            elem.revertFlip();
+            // Unsetting the flag:
+            elem.data('flipped',false)
+        }
+        else
+        {
+            // Using the flip method defined by the plugin:
+            elem.flip({
+                direction:'lr',
+                speed: 350,
+                onBefore: function(){
+                    // Insert the contents of the .donorData div (hidden
+                    // from view with display:none) into the clicked
+                    // .donorFlip div before the flipping animation starts:
+                    elem.html(elem.siblings('.donorData').html());
+                }
+            });
+            // Setting the flag:
+            elem.data('flipped',true);
+        }
+    });
+
+  });
+</script>
+

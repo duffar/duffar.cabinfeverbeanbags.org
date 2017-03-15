@@ -1,0 +1,85 @@
+
+<div id="fb-root"></div>
+<script>
+  // This script read silent auction items from the facebook event page and automatically populated the page on the CF site.
+  // It didn't work that great because the event entries weren't very consistent but its an example of how to call the FB api's
+  window.fbAsyncInit = function() {
+    alert('0');
+    // init the FB JS SDK
+    FB.init({
+      appId      : 'AAACEdEose0cBADpLN2h6R9VrQy7wAGYt6e5xAfPX512nkXW05pQu87InMgRH4qfvMUXHjZA5TahZCpktSq4fG2NayetHDXNS9r1312xEew9JCZAPXNO', // App ID from the App Dashboard
+//      channelUrl : 'http://www.cabinfeverbeanbags.org/p/channel.html', // Channel File for x-domain communication
+      status     : false, // check the login status upon init?
+      cookie     : true, // set sessions cookies to allow your server to access the session?
+      xfbml      : true,  // parse XFBML tags on this page?
+      oauth: true
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+    loadAlbum();
+  };
+
+  // Load the SDK's source Asynchronously
+  // Note that the debug version is being actively developed and might 
+  // contain some type checks that are overly strict. 
+  // Please report such bugs using the bugs tool.
+  (function(d, debug){
+//    alert('loading facebook-jssdk');
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
+     ref.parentNode.insertBefore(js, ref);
+   }(document, /*debug*/ false));
+</script>
+
+<script>
+function loadAlbum()
+{
+    FB.api(
+      {
+        method: 'fql.query',
+        query: 'SELECT aid, owner, name, object_id, photo_count FROM album WHERE object_id="494702160587738"'
+      },
+      function(response) {
+//        alert('CF auction album contains ' + response[0].photo_count + ' photos.');
+        $("h1").after(" <i>" + response[0].photo_count + " items</i>");
+      }
+    );
+    FB.api(
+      {
+        method: 'fql.query',
+        query: 'SELECT caption, pid, modified, link, src, src_big FROM photo WHERE aid="144827768908514_109923" ORDER BY modified'
+      },
+      function(response) {
+        for (var i=0; i<response.length; i++) {
+           var urlIndex = response[i].caption.indexOf("http");
+           var bizurl = response[i].caption.substr(urlIndex);
+           var desc = response[i].caption.substr(0, urlIndex);
+           var fblinkurl = response[i].link;
+           var picurl = response[i].src;
+           var entry = "<li><a href='"+bizurl+"' target='_blank'><img src='"+picurl+"'/>"+desc+"</li>";
+           $("data").after(entry);
+//           $("data").after("<li> <a href='"+url+"' target='_blank'>"+desc+"</a></li>");
+        }
+      }
+    );
+}
+
+//<li>
+//<a href="http://www.facebook.com/photo.php?fbid=4971134634401" target="_blank">Basket of Aveda //Stress-Fix Products</a> - 
+//<a href="http://www.lasatasalon.com/home.html" target="_blank">Lasata</a>
+//</li>
+
+//<br/><br/>
+//<a href="http://www.bigdocentertainment.com/" target="_blank">
+//<img src="http://4.bp.blogspot.com/.../BigDocEntertainment.jpg"/>
+//</a>
+
+
+</script>
+
+<h1>Silent Auction</h1>
+<ul>
+<data/>
+</ul>
