@@ -32,13 +32,6 @@
         "paid": true
       },
       {
-        "name": "A Cut Above Builders",
-        "email": "",
-        "url": "https://www.facebook.com/pages/A-Cut-Above-Builders/760489444084768",
-        "img": "ACutAbove.jpg",
-        "paid": true
-      },
-      {
         "name": "TLS Companies",
         "email": "info@tlscompanies.com",
         "url": "http://www.tlscompanies.com/",
@@ -98,7 +91,8 @@
         "name": "A Cut Above",
         "email": "",
         "url": "http://www.manta.com/c/mm09zcs/a-cut-above-builders",
-        "img": "acutabove.png"
+        "img": "acutabove.png",
+        "paid": true
       },
       {
         "name": "Jill Fasbender Farmers Insurance",
@@ -149,12 +143,6 @@
         "paid": true
       },
       {
-        "name": "Fire Safety USA, Inc.",
-        "email": "chad@firesafetyusa.com",
-        "url": "http://www.firesafetyusa.com",
-        "img": "http://firesafetyusa.com/images/fsusa_logo_top_left.gif"
-      },
-      {
         "name": "Rochester Police Athletic League",
         "email": "",
         "url": "http://rochesterpal.com/",
@@ -199,12 +187,6 @@
         "email": "",
         "url": "http://www.riverstonepsychologicalservices.com/",
         "img": "riverstone.jpg"
-      },
-      {
-        "name": "Tealwood Senior Living",
-        "email": "",
-        "url": "http://www.twsl.com/",
-        "img": "tealwood.png"
       },
       {
         "name": "Sam's Club",
@@ -286,7 +268,7 @@
         "name": "Sound and Media Solutions",
         "email": "info@soundandmediasolutions.com",
         "url": "http://www.soundandmediasolutions.com/",
-        "img": "sms2.svg",
+        "img": "sms2.png",
         "paid": true
       },
       {

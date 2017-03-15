@@ -81,16 +81,9 @@ function initializemarquee(){
     setTimeout('lefttime=setInterval("scrollmarquee()",30)', delayb4scroll)
 }
 
-$(document).ready(function(){
-     loadContent();
-});
-
-function loadContent(){
-    // Load content remotely and insert into page - then reinitialize marquee
-    // Request sponsor data as remote json object
-    requestSponsorData().done(function(){
+var sponsorDataMarqueeCallback = function(data) {
       // populate the sponsorList div with returned data
-      var spnLstData = getSponsorData();
+      var spnLstData = data.sponsorGroups;
       var $sponsorList = $('#vmarquee');
       for (var spnCatKey in spnLstData) {
         var spnCatData = spnLstData[spnCatKey];
@@ -98,6 +91,7 @@ function loadContent(){
         $sponsorList.append($sponsorCat);
         for (var spnKey in spnCatData) {
           var spnData = spnCatData[spnKey];
+          if (!spnData['paid']) continue;
           var $sponsor = $('<div/>', {'class': 'sponsor'});
           $sponsorCat.append($sponsor);
           for (var spnAttKey in spnData) {
@@ -116,9 +110,9 @@ function loadContent(){
             var $url = $s.attr('url');
             var $img = $s.attr('img');
             if (!$img) {
-                $img = dataHome+'/img/sponsors/'+$name+'.png';
+                $img = baseURL+'/img/sponsors/'+$name+'.png';
             } else if (!$img.toLowerCase().startsWith("http")) {
-                $img = dataHome+'/img/sponsors/'+$img;
+                $img = baseURL+'/img/sponsors/'+$img;
             }
             $s.append('<div class="sponsorData">'+
                         '<div class="sponsorURL"><a href="'+$url+'" target="_blank"><img src="'+$img+'"/><hr/></a></div>'+
@@ -133,14 +127,18 @@ function loadContent(){
                 initializemarquee();
             }
         });
-    });
 };
+
+$(document).ready(function(){
+    loadJsonData('/sponsor_data.json', sponsorDataMarqueeCallback)
+});
+
 
 </script>
 
 
 <div id="marqueecontainer" onmouseover="copyspeed=pausespeed" onmouseout="copyspeed=marqueespeed">
+    <!--YOUR SCROLL CONTENT HERE-->
     <div id="vmarquee" style="position: absolute; width:100%; text-align: center;  background-color:white">
-        <!--YOUR SCROLL CONTENT HERE-->
     </div>
 </div>
