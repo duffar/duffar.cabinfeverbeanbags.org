@@ -325,7 +325,7 @@
         "email": "",
         "url": "http://www.kbscompanies.com/",
         "img": "kbs.png",
-        "paid": true
+        "paid": false
       },
       {
         "name": "The Clarion Inn",
