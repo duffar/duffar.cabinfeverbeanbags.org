@@ -50,7 +50,7 @@
         "email": "",
         "url": "http://www.rochestereventcenter.com/",
         "img": "Rochester-International-Event-Center-logo.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Creative Hardwoods",
@@ -64,7 +64,7 @@
         "email": "",
         "url": "https://www.facebook.com/Mike-Meyer-Sign-Painter-253709194689693/",
         "img": "MIKE MEYERLOGO.jpg",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Northgate Chiropractic",
@@ -120,7 +120,7 @@
         "email": "mitch@imagesmartz.com",
         "url": "http://www.imagesmartz.com/",
         "img": "imagesmartz.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Meshbesher & Spence",
@@ -190,7 +190,7 @@
         "email": "",
         "url": "http://www.reichelfoods.com/",
         "img": "ReichelSmall.jpg",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Riverstone Psychological Services",
