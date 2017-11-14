@@ -311,7 +311,7 @@
         "email": "info@iheart.com",
         "url": "http://charlieseateryandpub.com/",
         "img": "charlies.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "All Over Media",
