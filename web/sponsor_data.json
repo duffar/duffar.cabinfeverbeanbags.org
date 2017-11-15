@@ -106,7 +106,7 @@
         "email": "jfasbender@farmersagent.com",
         "url": "http://www.farmersagent.com/jfasbender",
         "img": "farmers.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Ihrke Construction",
@@ -169,7 +169,7 @@
         "email": "jeff@medcitybrewing.com",
         "url": "http://www.medcitybrewing.com/",
         "img": "MedCityBrewing.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Ace Midwest Moving and Storage",
