@@ -36,7 +36,7 @@
         "email": "",
         "url": "http://www.jagtours.com",
         "img": "jag.jpg",
-        "paid": false
+        "paid": true
       },
       {
         "name": "TLS Companies",
@@ -141,7 +141,7 @@
         "email": "bruce@ryan-ws.com",
         "url": "http://www.ryan-ws.com",
         "img": "ryan-windows-logo.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Saratoga Partnership",
@@ -253,7 +253,7 @@
         "email": "",
         "url": "http://www.kttc.com/",
         "img": "kttc-tv.gif",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Spin Drive Dj's",
@@ -288,7 +288,7 @@
         "email": "info@iheart.com",
         "url": "https://www.iheart.com/",
         "img": "iheartradio.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Become a Cabin Fever Sponsor",
@@ -474,7 +474,7 @@
         "email": "",
         "url": "http://innerbalancemn.com/",
         "img": "InnerBalanceMassage.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "In memory of Irv Gage",
