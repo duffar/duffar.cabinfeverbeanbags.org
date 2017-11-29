@@ -22,7 +22,7 @@
         "email": "jeanababcock@gmail.com",
         "url": "http://www.babcockautocare.com",
         "img": "Babcock.jpg",
-        "paid": false
+        "paid": true
       },
       {
         "name": "All Climate Self Storage",
@@ -71,7 +71,7 @@
         "email": "",
         "url": "http://www.northgatechiropractic.com/",
         "img": "2008 NGCC LOGO.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "WPS Antennas",
