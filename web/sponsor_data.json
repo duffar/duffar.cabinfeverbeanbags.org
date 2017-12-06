@@ -274,7 +274,7 @@
         "email": "",
         "url": "",
         "img": "luomaelectric.jpg",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Sound and Media Solutions",
@@ -374,7 +374,7 @@
         "email": "",
         "url": "http://www.audiovisuallogic.com/",
         "img": "AVLogic.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Stifel",
@@ -411,7 +411,7 @@
         "email": "",
         "url": "https://www.homfurniture.com/",
         "img": "hom.jpg",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Shop Rochester",
@@ -460,7 +460,7 @@
         "email": "",
         "url": "http://www.bobscopyshop.com/",
         "img": "bobscopyshop.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "TweetBeam",
