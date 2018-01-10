@@ -218,7 +218,7 @@
         "email": "413-trans@chrobinson.com",
         "url": "https://www.chrobinson.com/",
         "img": "CHRobinson.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Chad Behnken",
@@ -281,7 +281,7 @@
         "email": "info@soundandmediasolutions.com",
         "url": "http://www.soundandmediasolutions.com/",
         "img": "sms2.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "iHeartRADIIO",
@@ -346,7 +346,7 @@
         "email": "aeboards@gmail.com",
         "url": "http://amishelectricbbs.com/",
         "img": "AmishElectric.jpg",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Merchants Bank",
