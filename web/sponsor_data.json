@@ -291,6 +291,13 @@
         "paid": true
       },
       {
+        "name": "Digi International",
+        "email": "",
+        "url": "http://digi.com/",
+        "img": "digi_2color.png",
+        "paid": true
+      },
+      {
         "name": "Become a Cabin Fever Sponsor",
         "email": "cfbeanbag@gmail.com",
         "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
@@ -384,18 +391,25 @@
         "paid": false
       },
       {
-        "name": "Digi International",
-        "email": "",
-        "url": "http://digi.com/",
-        "img": "digi_2color.png",
-        "paid": false
-      },
-      {
         "name": "Safelite AutoGlass",
         "email": "",
         "url": "https://www.safelite.com/stores/rochester-mn",
         "img": "safelite.png",
         "paid": false
+      },
+      {
+        "name": "K&M Glass",
+        "email": "",
+        "url": "https://www.kandmglass.com/",
+        "img": "kandmglass.png",
+        "paid": true
+      },
+      {
+        "name": "Hamilton Plumbing",
+        "email": "",
+        "url": "http://www.hamiltonplumbingrochester.com/",
+        "img": "hamiltonplumbing.png",
+        "paid": true
       },
       {
         "name": "Become a Cabin Fever Sponsor",
@@ -489,6 +503,13 @@
         "url": "",
         "img": "RayMonson.jpg",
         "paid": false
+      },
+      {
+        "name": "Nolting Dental",
+        "email": "",
+        "url": "https://www.noltingdentalcare.com/",
+        "img": "noltingdental.png",
+        "paid": true
       },
       {
         "name": "Become a Cabin Fever Sponsor",
