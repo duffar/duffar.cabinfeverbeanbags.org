@@ -29,7 +29,7 @@
         "email": "manager@allclimateselfstorage.com",
         "url": "http://www.allclimateselfstorage.com",
         "img": "All Climate Slf. Storage Logo.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Jag Tours",
@@ -78,7 +78,7 @@
         "email": "bob@wpsantennas.com",
         "url": "http://www.wpsantennas.com/",
         "img": "wpsantennas-sm.gif",
-        "paid": false
+        "paid": true
       },
       {
         "name": "All Systems",
@@ -113,7 +113,7 @@
         "email": "",
         "url": "",
         "img": "ihrke.jpg",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Image Smartz",
@@ -395,7 +395,7 @@
         "email": "",
         "url": "https://www.safelite.com/stores/rochester-mn",
         "img": "safelite.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "K&M Glass",
