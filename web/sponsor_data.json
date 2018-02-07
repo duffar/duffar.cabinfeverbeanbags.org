@@ -57,7 +57,7 @@
         "email": "amy@creativehf.com",
         "url": "http://www.creativehf.com/",
         "img": "CreativeHardoodFloors.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Mike Meyer Sign Painting",
@@ -85,7 +85,7 @@
         "email": "TVerNess@allsysinst.com",
         "url": "http://www.allsysinst.com/",
         "img": "AllSystems.gif",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Premier Builders",
@@ -148,7 +148,7 @@
         "email": "j_dohlman@hotmail.com",
         "url": "http://saratogapartnership.com/",
         "img": "Saratoga_Partnership_Web_Logo.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Rochester Police Athletic League",
@@ -211,7 +211,7 @@
         "email": "kim@cws.net",
         "url": "http://www.cws.net/",
         "img": "cws.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "CH Robinson",
@@ -260,7 +260,7 @@
         "email": "",
         "url": "",
         "img": "spindrive.jpg",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Custom Alarm",
@@ -298,6 +298,13 @@
         "paid": true
       },
       {
+        "name": "KBS-Kreofsky Building Supply",
+        "email": "",
+        "url": "http://www.kbscompanies.com/",
+        "img": "kbs.png",
+        "paid": true
+      },
+      {
         "name": "Become a Cabin Fever Sponsor",
         "email": "cfbeanbag@gmail.com",
         "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
@@ -325,13 +332,6 @@
         "email": "danallovermedia@aol.com",
         "url": "http://rochestermn.allovermedia.com/",
         "img": "AllOverMedia.png",
-        "paid": false
-      },
-      {
-        "name": "KBS-Kreofsky Building Supply",
-        "email": "",
-        "url": "http://www.kbscompanies.com/",
-        "img": "kbs.png",
         "paid": false
       },
       {
@@ -467,7 +467,14 @@
         "email": "mike.busch.b40f@statefarm.com",
         "url": "http://www.statefarm.com/agent/US/MN/Rochester/Mike-Busch-1BMR31YS000",
         "img": "MikeBusch.png",
-        "paid": false
+        "paid": true
+      },
+      {
+        "name": "Five Dollar Pizza",
+        "email": "",
+        "url": "https://5dollarpizza.com/",
+        "img": "http://5dollarpizza.com/wp-content/uploads/2015/09/pizza-logo.png",
+        "paid": true
       },
       {
         "name": "Bobs Copy Shop",
