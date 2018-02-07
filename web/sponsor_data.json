@@ -6,7 +6,7 @@
         "email": "",
         "url": "https://www.thinkbank.com",
         "img": "ThinkBank.jpg",
-        "paid": false
+        "paid": paid
       },
       {
         "name": "Become a Cabin Fever Sponsor",
