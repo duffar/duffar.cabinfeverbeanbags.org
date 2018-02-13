@@ -467,7 +467,7 @@
         "email": "",
         "url": "http://www.heartlandtireservice.com/",
         "img": "heartlandtire.jpg",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Mike Busch State Farm",
