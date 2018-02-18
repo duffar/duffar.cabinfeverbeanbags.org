@@ -162,7 +162,7 @@
         "email": "",
         "url": "http://www.midwestrepairables.com/",
         "img": "midwestrepairables.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Med City Brewing",
@@ -391,13 +391,6 @@
         "paid": true
       },
       {
-        "name": "Stifel",
-        "email": "mjhogan69@yahoo.com",
-        "url": "http://www.stifel.com",
-        "img": "Stifel.png",
-        "paid": false
-      },
-      {
         "name": "Safelite AutoGlass",
         "email": "",
         "url": "https://www.safelite.com/stores/rochester-mn",
@@ -432,6 +425,13 @@
         "email": "",
         "url": "https://www.homfurniture.com/",
         "img": "hom.jpg",
+        "paid": true
+      },
+      {
+        "name": "Stifel",
+        "email": "mjhogan69@yahoo.com",
+        "url": "http://www.stifel.com",
+        "img": "Stifel.png",
         "paid": true
       },
       {
