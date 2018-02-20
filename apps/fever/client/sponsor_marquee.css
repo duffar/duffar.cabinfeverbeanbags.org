@@ -1,0 +1,29 @@
+#marqueecontainer{
+  position: relative;
+  width: 250px; /*marquee width */
+  height: 300px; /*marquee height */
+  background-color: white;
+  overflow: hidden;
+  border: 1px black;
+  text-align: left;
+}
+
+#vmarquee img {
+  width:90%;
+  height: 90%;
+  max-width:90%;
+  max-height:90%;
+  outline:#000000 black;
+  xborder: 1px black;
+  margin:2%;
+  xmargin-bottom:5px;
+  border-radius:5px;
+}
+
+#vmarquee .sponsorData {
+  border: 1px black;
+  margin-bottom:5px;
+  border-radius:5px;
+  padding-bottom:5px;
+}
+

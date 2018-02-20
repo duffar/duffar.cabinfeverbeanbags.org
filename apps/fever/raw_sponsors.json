@@ -1,0 +1,36 @@
+sponsorsCallback({
+ "sponsorGroups": {
+   "platinum": [
+      {
+        "name": "Become a Cabin Fever Sponsor",
+        "email": "cfbeanbag@gmail.com",
+        "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
+        "img": "Put-Your-Logo-Here.png"
+      }
+    ],
+   "gold": [
+      {
+        "name": "Become a Cabin Fever Sponsor",
+        "email": "cfbeanbag@gmail.com",
+        "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
+        "img": "Put-Your-Logo-Here.png"
+      }
+    ],
+   "silver": [
+      {
+        "name": "Become a Cabin Fever Sponsor",
+        "email": "cfbeanbag@gmail.com",
+        "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
+        "img": "Put-Your-Logo-Here.png"
+      }
+    ],
+   "bronze": [
+      {
+        "name": "Become a Cabin Fever Sponsor",
+        "email": "cfbeanbag@gmail.com",
+        "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
+        "img": "Put-Your-Logo-Here.png"
+      }
+    ]
+  }
+})

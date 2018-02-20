@@ -1,0 +1,26 @@
+<div id="ticketList">
+	<div class="category" name="big">
+<!-- template		
+		<div class="ticketItem"
+			donor="Bob the Bug Man"
+			url="www.bobthebugman-mn.com"
+			desc="Pest Control for Residence ($160-$200 value)"
+			img="Put-Your-Logo-Here.png"
+			value=""
+		/>
+		<div class="ticketItem"
+			donor="Bob the Bug Man"
+			url="www.bobthebugman-mn.com"
+			desc="Pest Control for Residence ($160-$200 value)"
+			img="Put-Your-Logo-Here.png"
+			value=""
+		>
+			<ul>
+				<li>detail 1</li>
+				<li>detail 2</li>
+				<li>detail 3</li>
+			</ul>
+		</div>
+-->
+	</div>
+</div>

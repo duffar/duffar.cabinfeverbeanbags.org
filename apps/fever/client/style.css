@@ -1,0 +1,206 @@
+﻿/* ==============================================================================================
+This copyright notice must be kept untouched in the stylesheet at all times.
+The original version of this stylesheet and the associated (x)html
+is available at http://www.script-tutorials.com/bootstrap-one-page-template-with-parallax-effect/
+Copyright (c) Script Tutorials. All rights reserved.
+This stylesheet and the associated (x)html may be modified in any way to fit your requirements.
+================================================================================================= */
+
+
+#Header1_headerimg {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  /*style: "display: block"*/
+}
+
+#sidebar {
+  width: 100px;
+  height: 100px;
+  background-color: greenyellow;
+}
+
+/* general styles */
+html, body {
+  /*background: url(images/woodpanel.jpeg) repeat center center fixed;*/
+  height: 100%;
+  width: 100%;
+}
+
+/* padded section */
+.pad-section {
+  padding: 50px 0;
+}
+
+.pad-section img {
+  width: 100%;
+}
+
+.pad-all {
+  padding: 50px;
+}
+
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -4em;
+}
+
+#logo {
+  height: 45px;
+  margin-top: -12px;
+}
+
+/* vertical-Left text */
+.text-vcenter {
+  display: table-cell;
+  text-align: left;
+  vertical-align: middle;
+  padding: 0 10px 0 30px;
+  font-weight: 400;
+}
+
+.text-vcenter h1 {
+  font-size: 4em;
+  margin: 0;
+  text-shadow: rgb(0, 0, 0) 0px 0px 10px;
+}
+
+.text-vcenter h3 {
+  margin: 20px 0px 30px 0px;
+  text-shadow: rgb(0, 0, 0) 0px 0px 10px;
+}
+
+.btn:hover, .btn:focus, .btn:active, .btn.active, .open .dropdown-toggle.btn-primary {
+
+  background-color: #2D78E8;
+  border-color: #31347B;
+  color: white;
+}
+
+.btn {
+  background-color: #2e9bda;
+  border: none;
+  color: white;
+}
+
+.text-vcenter a {
+  width: 300px;
+  margin-left: 80px;
+  color: white;
+}
+
+/* additional sections */
+#home {
+  background: url(images/Fighters.jpg) no-repeat center center fixed;
+  display: table;
+  height: 100%;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+}
+
+#planbanner {
+  background: url(images/PlanTripBanner.jpg) no-repeat center center;
+  position: relative;
+  padding: 0;
+  margin: 0;
+  height: 180px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#myTripsBanner {
+  background: url(images/PlanTripBanner.jpg) no-repeat center center;
+  position: relative;
+  padding: 0;
+  margin: 0;
+  height: 180px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#feature {
+}
+
+#partners {
+  background-color: #306d9f;
+  color: #ffffff;
+}
+
+#partners .glyphicon {
+  border: 2px solid #FFFFFF;
+  border-radius: 50%;
+  display: inline-block;
+  font-size: 60px;
+  height: 140px;
+  line-height: 140px;
+  text-align: center;
+  vertical-align: middle;
+  width: 140px;
+}
+
+#steps {
+  background: url(images/HonorWall.jpg) no-repeat center center fixed;
+  display: table;
+  height: 400px;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#steps .img {
+  vertical-align: middle;
+}
+
+#teambuild {
+  background: url(images/Background-Team.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 350px;
+}
+
+#teambuild h3 {
+  margin: 20px 0 0 30px;
+  color: white;
+}
+
+#teambuild a {
+  margin: 15px 0 0 120px;
+}
+
+footer {
+  /*  position: relative;*/
+  margin: 0;
+  padding: 0px 0 5px 0;
+  background: #292929;
+  color: white;
+  /*   clear:both;*/
+}
+
+footer i {
+  color: white;
+  font-size: 60px;
+  margin: 15px 0 0 30px;
+}
+
+footer, .push {
+  height: 6em;
+
+}
+
+.table-striped tbody tr.highlight td {
+  background-color: #aaaaaa;
+}
+

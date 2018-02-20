@@ -1,0 +1,104 @@
+<template name="Admin">
+  <div class="wrapper">
+    <div id="planbanner">
+    </div>
+    <div class="pad-all">
+      <h2>Donation List</h2>
+      {{> DonationListView}}
+
+      <h2>Upload Images</h2>
+
+      <div class="container">
+        {{> UploadImages}}
+      </div>
+
+    </div>
+    <div class="push"></div>
+  </div>
+</template>
+
+
+<template name="DonationListView">
+  <div class="tab-pane" id="DonationListDiv">
+    {{>DonationDetailInsertModal}}
+    <table id="DonationList" class="table  table-bordered table-condensed">
+      <thead>
+      <tr>
+        <th>Type</th>
+        <th>Level</th>
+        <th>Description</th>
+        <th>Value</th>
+        <th>Donor</th>
+        <th>Date</th>
+      </tr>
+      </thead>
+      <tbody>
+      {{#each donation}}
+        <tr data-name="{{name}}" data-id="{{_id}}" class="DonationRow">
+          <td><a class="deviceDetails">{{type}}</a></td>
+          <td>{{level}}</td>
+          <td>{{description}}</td>
+          <td>{{value}}</td>
+          <td>{{donorName}}%</td>
+          <td>{{date}}</td>
+        </tr>
+      {{/each}}
+      </tbody>
+    </table>
+    <button id="addDonationBtn" class="btn btn-primary">Add</button>
+    <button id="editDonationBtn" class="btn">Edit</button>
+    <button id="removeDonationBtn" class="btn">Remove</button>
+  </div>
+</template>
+
+<template name="DonationDetailInsertModal">
+  <div id="DonationDetailInsertModal" class="modal fade">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+          <h4 class="modal-title">Add Donation</h4>
+        </div>
+        <div class="modal-body">
+          {{>DonationDetailInsert}}
+        </div>
+        <!--<div class="modal-footer">-->
+        <!--<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>-->
+        <!--<button type="button" class="btn btn-primary">Save changes</button>-->
+        <!--</div>-->
+      </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+  </div><!-- /.modal -->
+</template>
+
+<template name="DonationDetailInsert">
+  {{> quickForm collection="Donations" id="insertDonationForm" type="insert" resetOnSuccess="true"}}
+</template>
+
+<template name="DonationDetailEdit">
+  {{#autoForm collection="Donations" id="donationDetailForm" type="update" doc=this}}
+    <fieldset>
+      <legend>Edit Donation</legend>
+      {{> afQuickField name="name"}}
+      {{> afQuickField name="type"}}
+      {{> afQuickField name="level"}}
+      {{> afQuickField name="description"}}
+      {{> afQuickField name="value"}}
+      {{> afQuickField name="donorName"}}
+      {{> afQuickField name="date"}}
+
+      <button type="submit" class="btn btn-primary">Update Donation</button>
+      <button id="cancelDonationEdit" class="btn btn-primary">Back</button>
+    </fieldset>
+  {{/autoForm}}
+</template>
+
+
+<template name="UploadImages">
+  <img class="thumbnail" src="{{images.src}}"/>
+
+  <form>
+    <input id="fileinput" type="file"/>
+    <button type="submit">Upload</button>
+  </form>
+</template>
