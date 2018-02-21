@@ -204,7 +204,7 @@
         "email": "",
         "url": "http://www.samsclub.com/",
         "img": "samsclub.jpg",
-        "paid": false
+        "paid": true
       },
       {
         "name": "CWS",
@@ -225,7 +225,7 @@
         "email": "chad@hamiltonmnre.com",
         "url": "https://www.linkedin.com/in/chad-behnken-17822672/",
         "img": "ChadBehnken.jpg",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Midwest Sign Tech",
