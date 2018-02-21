@@ -446,7 +446,7 @@
         "email": "info@shoprochester.org",
         "url": "http://www.shoprochester.org/",
         "img": "ShopRochester.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Erin Young Photography ",
@@ -467,7 +467,7 @@
         "email": "dan@jsrepair.com",
         "url": "http://gunsplusammo.com/",
         "img": "gunsplusammo.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Heartland Tire",
