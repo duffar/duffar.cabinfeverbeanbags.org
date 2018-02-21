@@ -13,8 +13,11 @@ Meteor.methods({
 
     console.log('Importing silent auction data');
     // Source and distination directories
-    var srcDir = '/Users/jeffry/Google\\ Drive/2017\\ Tournament/Silent\\ Auction';
-    var dstDir = '/Users/jeffry/Dropbox/Public/CF/web';
+    // var srcDir = '/Users/jeffry/Google\\ Drive/2017\\ Tournament/Silent\\ Auction';
+    // var dstDir = '/Users/jeffry/Dropbox/Public/CF/web';
+    var srcDir = '/Users/jeffry/Google\\ Drive/Cabin\\ Fever\\ (1)\2018\\ Tournament/Silent\\ Auction';
+    // var dstDir = '/Users/jeffry/repos/duffar.cabinfeverbeanbags.org/web';
+    var dstDir = '/Users/jeffry/test';
     var srcImageDir = srcDir; //+'/images';
     var dstImageDir = dstDir+'/img/auction';
 
@@ -58,13 +61,15 @@ Meteor.methods({
       var now = new Date();
       var auctionItems = [];
       console.log('reading workbook...');
-      var workbook = xlsx.readFile('/Users/jeffry/Cabin Fever Auction 2017 List.xlsx');
+      // var srcDir = '/Users/jeffry/Google\\ Drive/Cabin\\ Fever\\ (1)\2018\\ Tournament/Silent\\ Auction';
+      var fname = srcDir
+      var workbook = xlsx.readFile('/Users/jeffry/Google Drive/Cabin Fever (1)/2018 Tournament/Silent Auction/2018 Cabin Fever Auction.xlsx');
       // var workbook = xlsx.readFile('/Users/jeffry/Google Drive/2017 Tournament/Silent Auction/Cabin Fever Auction 2017 List.xlsx');
       console.log('loaded workbook!');
       var sheetNames = workbook.SheetNames;
       sheetNames.forEach(function(name) {
         var worksheet = workbook.Sheets[name];
-        if (name == 'Full List') {
+        if (name == 'Silent Auction') {
           console.log('found sheet: '+name);
           var rows = xlsx.utils.sheet_to_json(worksheet, {raw:true, header:1});
           // console.log('rows: '+rows.length);
@@ -102,8 +107,8 @@ Meteor.methods({
                 if (!shell.test('-f', dstImage)) {
                   console.log('  copying and scaling image file: '+item.img);
                   // copy and scale the images directory
-                  var copyAndScaleCmd = 'nconvert -quiet -ratio -resize 500 0 -overwrite -o '+dstImage+' '+srcImage;
-                  // var copyAndScaleCmd = 'sips -Z 640 '+srcImage+' --out '+dstImage;
+                  // var copyAndScaleCmd = 'nconvert -quiet -ratio -resize 500 0 -overwrite -o '+dstImage+' '+srcImage;
+                  var copyAndScaleCmd = 'sips -Z 500 '+srcImage+' --out '+dstImage;
                   // console.log('exec: '+copyAndScaleCmd);
                   if (shell.exec(copyAndScaleCmd).code != 0) {
                     console.log('  copy of image failed: '+copyAndScaleCmd);
