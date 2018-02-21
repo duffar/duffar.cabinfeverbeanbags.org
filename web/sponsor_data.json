@@ -412,6 +412,13 @@
         "paid": true
       },
       {
+        "name": "Five Dollar Pizza",
+        "email": "",
+        "url": "https://5dollarpizza.com/",
+        "img": "http://5dollarpizza.com/wp-content/uploads/2015/09/pizza-logo.png",
+        "paid": true
+      },
+      {
         "name": "Become a Cabin Fever Sponsor",
         "email": "cfbeanbag@gmail.com",
         "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
@@ -474,13 +481,6 @@
         "email": "mike.busch.b40f@statefarm.com",
         "url": "http://www.statefarm.com/agent/US/MN/Rochester/Mike-Busch-1BMR31YS000",
         "img": "MikeBusch.png",
-        "paid": true
-      },
-      {
-        "name": "Five Dollar Pizza",
-        "email": "",
-        "url": "https://5dollarpizza.com/",
-        "img": "http://5dollarpizza.com/wp-content/uploads/2015/09/pizza-logo.png",
         "paid": true
       },
       {
