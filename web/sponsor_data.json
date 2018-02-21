@@ -127,7 +127,7 @@
         "email": "",
         "url": "http://www.meshbesher.com",
         "img": "meshbesher_spence.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Town Square Media",
