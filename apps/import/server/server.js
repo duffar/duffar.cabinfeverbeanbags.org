@@ -126,8 +126,8 @@ Meteor.methods({
         }
       });
       // Backup current auctionItems file
-      var dstAuctionFile = dstDir+'/raw_auction.html';
-      var dstAuctionBackupFile = dstDir+'/raw_auction_backup.html';
+      var dstAuctionFile = dstDir+'/auction_data.json';
+      var dstAuctionBackupFile = dstDir+'/auction_data_backup.json';
       shell.mkdir('-p', dstDir);
       shell.rm('-rf', dstAuctionBackupFile);  // remove previous backup file
       shell.mv(dstAuctionFile, dstAuctionBackupFile);
