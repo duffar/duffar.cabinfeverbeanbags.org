@@ -15,9 +15,9 @@ Meteor.methods({
     // Source and distination directories
     // var srcDir = '/Users/jeffry/Google\\ Drive/2017\\ Tournament/Silent\\ Auction';
     // var dstDir = '/Users/jeffry/Dropbox/Public/CF/web';
-    var srcDir = '/Users/jeffry/Google\\ Drive/Cabin\\ Fever\\ (1)\2018\\ Tournament/Silent\\ Auction';
-    // var dstDir = '/Users/jeffry/repos/duffar.cabinfeverbeanbags.org/web';
-    var dstDir = '/Users/jeffry/test';
+    var srcDir = '/Users/jeffry/Google\\ Drive/Cabin\\ Fever/2018\\ Tournament/Silent\\ Auction';
+    var dstDir = '/Users/jeffry/repos/duffar.cabinfeverbeanbags.org/web';
+    // var dstDir = '/Users/jeffry/test';
     var srcImageDir = srcDir; //+'/images';
     var dstImageDir = dstDir+'/img/auction';
 
@@ -63,7 +63,7 @@ Meteor.methods({
       console.log('reading workbook...');
       // var srcDir = '/Users/jeffry/Google\\ Drive/Cabin\\ Fever\\ (1)\2018\\ Tournament/Silent\\ Auction';
       var fname = srcDir
-      var workbook = xlsx.readFile('/Users/jeffry/Google Drive/Cabin Fever (1)/2018 Tournament/Silent Auction/2018 Cabin Fever Auction.xlsx');
+      var workbook = xlsx.readFile('/Users/jeffry/Google Drive/Cabin Fever/2018 Tournament/Silent Auction/2018 Cabin Fever Auction.xlsx');
       // var workbook = xlsx.readFile('/Users/jeffry/Google Drive/2017 Tournament/Silent Auction/Cabin Fever Auction 2017 List.xlsx');
       console.log('loaded workbook!');
       var sheetNames = workbook.SheetNames;
@@ -102,20 +102,22 @@ Meteor.methods({
                 item.date = new Date(now.getTime()+item.date);
                 console.log('processing auction item: '+item.desc);
                 auctionItems.push(item);
+                var imageFileName = item.img.split('.')[0];
                 var srcImage = srcImageDir+'/'+item.img;
+                item.img = imageFileName+'.jpg'; // convert all images to jpg format
                 var dstImage = dstImageDir+'/'+item.img;
                 if (!shell.test('-f', dstImage)) {
-                  console.log('  copying and scaling image file: '+item.img);
+                  console.log('  copying and scaling image file: '+imageFileName);
                   // copy and scale the images directory
                   // var copyAndScaleCmd = 'nconvert -quiet -ratio -resize 500 0 -overwrite -o '+dstImage+' '+srcImage;
-                  var copyAndScaleCmd = 'sips -Z 500 '+srcImage+' --out '+dstImage;
-                  // console.log('exec: '+copyAndScaleCmd);
+                  var copyAndScaleCmd = 'sips -Z 500 --setProperty format jpeg '+srcImage+' --out '+dstImage;
+                  console.log('exec: '+copyAndScaleCmd);
                   if (shell.exec(copyAndScaleCmd).code != 0) {
                     console.log('  copy of image failed: '+copyAndScaleCmd);
                   } else {
-                    var orientCmd = 'nconvert -quiet -jpegtrans exif -overwrite '+dstImage;
-                    // console.log('exec: '+orientCmd);
-                    shell.exec(orientCmd);
+                    // var orientCmd = 'nconvert -quiet -jpegtrans exif -overwrite '+dstImage;
+                    // // console.log('exec: '+orientCmd);
+                    // shell.exec(orientCmd);
                   }
                 }
               }
