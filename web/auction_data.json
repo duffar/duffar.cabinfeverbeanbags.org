@@ -1,4 +1,4 @@
-auctionCallback({
+{
   "auctionGroups": {
     "standard": [
       {
@@ -122,4 +122,4 @@ auctionCallback({
       }
     ]
   }
-})
+}

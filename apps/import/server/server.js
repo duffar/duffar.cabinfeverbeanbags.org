@@ -137,7 +137,7 @@ Meteor.methods({
           "standard": auctionItems
         }
       };
-      var outbuff = 'auctionCallback('+JSON.stringify(outputdoc, null, 2)+')';
+      var outbuff = JSON.stringify(outputdoc, null, 2);
       fs.writeFileSync(dstAuctionFile, outbuff);
 
       console.log('Import completed successfully');
