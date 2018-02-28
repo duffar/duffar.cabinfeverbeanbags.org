@@ -155,7 +155,7 @@
         "email": "",
         "url": "http://rochesterpal.com/",
         "img": "RochesterPal.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Midwest Repairables",
@@ -302,6 +302,12 @@
         "email": "",
         "url": "http://www.kbscompanies.com/",
         "img": "kbs.png",
+        "paid": true
+      {
+        "name": "J & S Repair",
+        "email": "",
+        "url": "http://www.jsrepair.com/",
+        "img": "jsrepair.png",
         "paid": true
       },
       {
@@ -495,7 +501,7 @@
         "email": "",
         "url": "http://www.tweetbeam.com/",
         "img": "tweetbeam.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Inner Balance Massage",
