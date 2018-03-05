@@ -149,11 +149,14 @@ Meteor.methods({
   importTeamData: function () {
     console.log('Importing team data');
     // Source and distination directories
-    var srcDir = '/Users/jeffry';
-    var dstDir = '/Users/jeffry/Dropbox/Public/CF/web'
+    // var srcDir = '/Users/jeffry';
+    var srcDir = '/Users/jeffry/Downloads';
+    // var dstDir = '/Users/jeffry/Dropbox/Public/CF/web'
+    var dstDir = '/Users/jeffry/repos/duffar.cabinfeverbeanbags.org/web';
 
     console.log('reading workbook...');
-    var infile = srcDir+'/2017tournament.xlsx';
+    // var infile = srcDir+'/2017tournament.xlsx';
+    var infile = srcDir+'/2018 Team Spreadsheet.xlsx';
     shell.ls(srcDir);
     shell.ls(infile);
     if (!shell.test('-f', infile)) {
