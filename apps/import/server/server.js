@@ -115,9 +115,9 @@ Meteor.methods({
                   if (shell.exec(copyAndScaleCmd).code != 0) {
                     console.log('  copy of image failed: '+copyAndScaleCmd);
                   } else {
-                    // var orientCmd = 'nconvert -quiet -jpegtrans exif -overwrite '+dstImage;
-                    // // console.log('exec: '+orientCmd);
-                    // shell.exec(orientCmd);
+                    var orientCmd = 'nconvert -quiet -jpegtrans exif -overwrite '+dstImage;
+                    // console.log('exec: '+orientCmd);
+                    shell.exec(orientCmd);
                   }
                 }
               }
