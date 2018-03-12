@@ -1,356 +1,357 @@
 <style>
-.category h2{
-    text-align: center;
-}
-.category{
-    overflow: hidden;
-    margin-bottom:20px;
-    border-radius:5px;
-    padding-bottom:10px;
-}
-.category[name=platinum]{
-    background-color: #E5E4E2;
-}
-.category[name=gold]{
-    background-color: #E0CB74;
-}
-.category[name=silver]{
-    background-color: silver;
-}
-.category[name=bronze]{
-    background-color: #804C00;
-}
-.donor{
-    width:134px;
-    height:200px;
-    float:left;
-    margin:4px;
-    /* Giving the sponsor div a relative positioning: */
-    position:relative;
-    /*cursor:pointer;*/
-    border-radius:5px;
-}
-.sponsor-frame{
-    /*  The sponsor div will be positioned absolutely with respect
-        to its parent .sponsor div and fill it in entirely */
-    position:absolute;
-    left:0;
-    top:0;
-    width:100%;
-    height:100%;
-    border:1px solid #ddd;
-    border-radius:5px;
-    background:url("https://dl.dropboxusercontent.com/u/14824619/CF/web/img/background.jpg") no-repeat center center #f9f9f9;
-}
-.donor img{
-    /* Centering the logo image in the middle of the .sponsorFlip div */
-    display: block;
-    margin: 7% auto;
-    max-height:60%;
-    max-width:90%;
-    border-radius:5px;
-    image-orientation: inherit
-}
-
-.donor {
-  font-family:"Arial";
-  font-size:8pt;
-  white-space:normal;
-}
-.sponsorData{
-    /* Hiding the .sponsorData div */
-    display:none;
-}
-.sponsorDescription{
-    font-size:11px;
-    padding:50px 10px 20px 20px;
-    font-style:italic;
-}
-.sponsorURL{
-    font-size:10px;
-    font-weight:bold;
-    padding-left:20px;
-}
-
-/* Override styles for platinum sponsor */
-.category[name=platinum] .sponsor{
-    width:98%;
-    height:210px;
-}
-.category[name=platinum] .sponsorFlip{
-    background:url("https://dl.dropboxusercontent.com/u/14824619/CF/web/img/background.jpg") repeat center center #f9f9f9;
-}
-
-.clear{
-    /* This class clears the floats */
-    clear:both;
-}
-
-
-/* Sponsorship Info text styles */
-body {
-  font-family:"Arial";
-  font-size:medium;
-}
-
-p {
-  font-family:"Arial";
-  font-size:medium;
-  white-space:normal;
-}
-
-li {
-  font-family:"Arial";
-  font-size:medium;
-  white-space:normal;
-}
-
-#sponsorlist img {
-  border:0;
-  height:117px;
-  max-width:60%;
-}
-
-#sponsorinfo h3 {
-  font-family:"Arial";
-  font-size:medium;
-  font-style:normal;
-  font-weight:normal;
-  white-space:normal;
-}
-
-.carousel-inner>.item>img, .carousel-inner>.item>a>img {
-  height: 300px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.carousel-caption {
-background-color: rgba(255, 255, 255, 0.5);
-}
-
-</style>
-
-<!--
-<i>
-We are actively soliciting donations for this years event. If you would like to donate an item or are in need of an idea take a look at the items below from last year. If you are still undecided, feel free to contact someone on the board or email us at <a href="mailto:cfbeanbag@gmail.com?Subject=Donations">cfbeanbag@gmail.com</a>
-
-<br><br>
-We will be updating this page shortly to display this years donations.
-</i>
-<br>
--->
-
-<!-- -->
-All of the wonderful items below will be on display and available for people to bid on. This list will grow considerably up to the day of the tournament so check back often for items your interested in. If you are looking to donate and are in need of an idea, take a look at the items below. If you are still undecided feel free to contact someone on the board or email us at <a href="mailto:cfbeanbag@gmail.com">cfbeanbag@gmail.com</a>.
-<!-- -->
-
-<!--
-<p>
-<h3>Last Years Silent Auction Items</h3>
--->
-
-<!-- -->
-<p>
-<h3>This Years Silent Auction Items</h3>
-<!-- -->
-
-<div id="auction-carousel" class="carousel slide" data-ride="carousel">
-  <!-- Indicators
-  <ol class="carousel-indicators">
-  </ol>
+  img {
+      image-orientation: from-image;
+  }
+  
+  .category h2{
+      text-align: center;
+  }
+  .category{
+      overflow: hidden;
+      margin-bottom:20px;
+      border-radius:5px;
+      padding-bottom:10px;
+  }
+  .category[name=platinum]{
+      background-color: #E5E4E2;
+  }
+  .category[name=gold]{
+      background-color: #E0CB74;
+  }
+  .category[name=silver]{
+      background-color: silver;
+  }
+  .category[name=bronze]{
+      background-color: #804C00;
+  }
+  .donor{
+      width:134px;
+      height:200px;
+      float:left;
+      margin:4px;
+      /* Giving the sponsor div a relative positioning: */
+      position:relative;
+      /*cursor:pointer;*/
+      border-radius:5px;
+  }
+  .sponsor-frame{
+      /*  The sponsor div will be positioned absolutely with respect
+          to its parent .sponsor div and fill it in entirely */
+      position:absolute;
+      left:0;
+      top:0;
+      width:100%;
+      height:100%;
+      border:1px solid #ddd;
+      border-radius:5px;
+  /*    background:url("https://dl.dropboxusercontent.com/u/14824619/CF/web/img/background.jpg") no-repeat center center #f9f9f9;*/
+      background:url(baseURL+'/img/background.jpg') no-repeat center center #f9f9f9;
+  }
+  .donor img{
+      /* Centering the logo image in the middle of the .sponsorFlip div */
+      display: block;
+      margin: 7% auto;
+      max-height:60%; 
+      max-width:90%;
+      border-radius:5px;
+      image-orientation: inherit
+  }
+  
+  .donor {
+    font-family:"Arial";
+    font-size:8pt;
+    white-space:normal;
+  }
+  .sponsorData{
+      /* Hiding the .sponsorData div */
+      display:none;
+  }
+  .sponsorDescription{
+      font-size:11px;
+      padding:50px 10px 20px 20px;
+      font-style:italic;
+  }
+  .sponsorURL{
+      font-size:10px;
+      font-weight:bold;
+      padding-left:20px;
+  }
+  
+  /* Override styles for platinum sponsor */
+  .category[name=platinum] .sponsor{
+      width:98%;
+      height:210px;
+  }
+  .category[name=platinum] .sponsorFlip{
+  /*    background:url("https://dl.dropboxusercontent.com/u/14824619/CF/web/img/background.jpg") no-repeat center center #f9f9f9;*/
+      background:url(baseURL+'/img/background.jpg') no-repeat center center #f9f9f9;
+  }
+  
+  .clear{
+      /* This class clears the floats */
+      clear:both;
+  }
+  
+  
+  /* Sponsorship Info text styles */
+  body {
+    font-family:"Arial";
+    font-size:medium;
+  }
+  
+  p {
+    font-family:"Arial";
+    font-size:medium;
+    white-space:normal;
+  }
+  
+  li {
+    font-family:"Arial";
+    font-size:medium;
+    white-space:normal;
+  }
+  
+  #sponsorlist img {
+    border:0;
+    height:117px;
+    max-width:60%;
+  }
+  
+  #sponsorinfo h3 {
+    font-family:"Arial";
+    font-size:medium;
+    font-style:normal;
+    font-weight:normal;
+    white-space:normal;
+  }
+  
+  .carousel-inner>.item>img, .carousel-inner>.item>a>img {
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .carousel-caption {
+  background-color: rgba(255, 255, 255, 0.5);
+  }
+  
+  </style>
+  
+  <!--
+  <i>
+  We are actively soliciting donations for this years event. If you would like to donate an item or are in need of an idea take a look at the items below from last year. If you are still undecided, feel free to contact someone on the board or email us at <a href="mailto:cfbeanbag@gmail.com?Subject=Donations">cfbeanbag@gmail.com</a> 
+  
+  <br><br>
+  We will be updating this page shortly to display this years donations.
+  </i>
+  <br>
+  <p>
+  <h3>Last Years Silent Auction Items</h3>
   -->
-
-  <!-- Wrapper for slides -->
-  <div class="carousel-inner">
+  
+  <!-- -->
+  All of the wonderful items below will be on display and available for people to bid on. We are still actively soliciting donations for this years event. This list will grow considerably up to the day of the tournament so check back often for items your interested in. If you are looking to donate and are in need of an idea, take a look at the items below. If you are still undecided feel free to contact someone on the board or email us at <a href="mailto:cfbeanbag@gmail.com">cfbeanbag@gmail.com</a>.
+  <p>
+  <h3>This Years Silent Auction Items</h3>
+  <!-- -->
+  
+  
+  <div id="auction-carousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators 
+    <ol class="carousel-indicators">
+    </ol>
+    -->
+  
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+    </div>
+  
+    <!-- Controls -->
+    <a class="left carousel-control" href="#auction-carousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+    </a>
+    <a class="right carousel-control" href="#auction-carousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+    </a>
   </div>
-
-  <!-- Controls -->
-  <a class="left carousel-control" href="#auction-carousel" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left"></span>
-  </a>
-  <a class="right carousel-control" href="#auction-carousel" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right"></span>
-  </a>
-</div>
-
-<div id="donorList"></div>
-
-<div id="becomeasponsor">
-
-<h2>Join Us!</h2>
-Would you like to be a sponsor or a donor?<br/>
-Please send an email to <a href="mailto:cfbeanbag@gmail.com">cfbeanbag@gmail.com</a> and we will get back to you!<br><br>
-<form action="mailto:cfbeanbag@gmail.com" enctype="multipart/form-data" method="post" name="EmailSponsor">
-</form>
-</div>
-Here are the sponsorship levels available:<br><br>
-
-<div id="sponsorinfo" class="Apple-style-span">
-<div class="notfull">
-<!--<h3><strike><b>Platinum Sponsor - limited to one business</b> ($5000 minimum Cash Donation)</strike> - <b>FILLED</b></h3>-->
-<h3><b>Platinum Sponsor - limited to one business</b> ($5000 minimum Cash Donation)</h3>
-<ul>
-<li>Professionally painted bean bag board with your company logo</li>
-<li>Company name integrated into Cabin Fever logo on shirts and printed advertisements</li>
-<li>Company logo on 300+ shirts</li>
-<li>Professionally printed banner with logo displayed at event</li>
-<li>Company logo integrated into Cabin Fever logo on web site</li>
-<li>Company logo on Cabin Fever website home page with link to business web site</li>
-<li>Company intro on all verbal advertising (tv/radio) "Cabin Fever presented by ..."</li>
-<li>Business logo on printed advertisements</li>
-<li>Display table at event</li>
-<li>Ability to provide in-bag marketing door prize/gift for 256 players and/or 1000+ guests</li>
-<li>1 Free team entry</li>
-<li>Receive first rights to sponsor in subsequent years at this level</li>
-</ul>
-</div>
-
-<div class="notfull">
-<!--<h3><strike><b>Gold Sponsors</b> ($500 minimum Cash Donation)</strike> - <b>FILLED</b></h3>-->
-<h3><b>Gold Sponsors</b> ($500 minimum Cash Donation)</h3>
-<ul>
-<li>Professionally painted bean bag board with your company logo</li>
-<li>Company logo on 300+ shirts</li>
-<li>Professionally printed banner with logo displayed at event</li>
-<li>Company logo on Cabin Fever website home page with link to business web site</li>
-<li>Business logo on printed advertisements</li>
-<li>Ability to provide in-bag marketing door prize/gift for 256 players and/or 1000+ guests</li>
-<li>Receive first rights to sponsor in subsequent years at this level</li>
-</ul>
-</div>
-
-<div class="notfull">
-<h3><b>Silver Sponsors</b> ($250 minimum Cash Donation)</h3>
-<ul>
-<li>Company logo on 300+ shirts</li>
-<li>Professionally printed banner with logo displayed at event</li>
-<li>Website exposure with link to business</li>
-<li>Ability to provide in-bag marketing door prize/gift for 256 players and/or 1000+ guests</li>
-</ul>
-</div>
-
-<div class="notfull">
-<!-- <h3><b>Bronze Sponsors</b> ($100 minimum Cash Donation, may purchase multiple spots, max 16 spots available) - <b>only 4 remaining</b></h3> -->
-<h3><b>Bronze Sponsors</b> ($100 minimum Cash Donation, may purchase multiple spots, max 16 spots available)</h3>
-<ul>
-<li>Company logo or personal tribute/dedication on scoreboard</li>
-<li>Website exposure with link to business</li>
-</ul>
-<br>
-</div>
-
-<!--
-<div class="notfull">
-<h3><b>Premier Donors</b> (Silent Auction Items, $250 minimum retail value considered)</h3>
-<ul>
-<li>Company name on all event t-shirts</li>
-<li>Website exposure with link to business</li>
-</ul>
-</div>
--->
-
-<div class="notfull">
-<h3><b>Donors</b> (Silent Auction Items, Door Prizes, etc.)</h3>
-<ul>
-<li>Website Exposure with link to business</li>
-</ul>
-<br>
-</div>
-
-<div class="notfull">
-<!-- <h3><b>Big Ticket Sponsorship</b> ($100 minimum retail value considered) - <b>FILLED</b></h3> -->
-<h3><b>Big Ticket Sponsorship</b> ($100 minimum retail value considered)</h3>
-<ul>
-<li>Company name listed on 2500 raffle tickets next to product</li>
-<li>These are $10 raffle tickets with 25 items to win</li>
-</ul>
-</div>
-
-<h3><b>Additional Information</b></h3>
-<ul>
-<li>Logo - needs to be vector based image (.eps) if possible in order to ensure the best possible graphic depiction on ads and t-shirts</li>
-</ul>
-<p>
-Wondering what to donate? Take a look <a href="http://www.cabinfeverbeanbags.org/p/donor.html">here</a> at last years donations for ideas.
-</div>
-
-
-
-
-<script type="text/javascript">
- function auctionDataCallback(data) {
-      var dnrLstData = data.auctionGroups;
-      var $donorList = $('#donorList');
-      for (var dnrCatKey in dnrLstData) {
-        var dnrCatData = dnrLstData[dnrCatKey];
-        var $donorCat = $('<div/>', {'class': 'category', 'name': dnrCatKey});
-        $donorList.append($donorCat);
-        for (var dnrKey in dnrCatData) {
-          var dnrData = dnrCatData[dnrKey];
-          var $donor = $('<div/>', {'class': 'donor'});
-          $donorCat.prepend($donor);
-          for (var dnrAttKey in dnrData) {
-            $donor.attr(dnrAttKey, dnrData[dnrAttKey]);
+  
+  <div id="donorList"></div>
+  
+  <div id="becomeasponsor">
+  
+  <h2>Join Us!</h2>
+  Would you like to be a sponsor or a donor?<br/>
+  Please send an email to <a href="mailto:cfbeanbag@gmail.com">cfbeanbag@gmail.com</a> and we will get back to you!<br><br>
+  <form action="mailto:cfbeanbag@gmail.com" enctype="multipart/form-data" method="post" name="EmailSponsor">
+  </form>
+  </div>
+  Here are the sponsorship levels available:<br><br>
+  
+  <div id="sponsorinfo" class="Apple-style-span"> 
+  <div class="notfull">
+  <!--<h3><strike><b>Platinum Sponsor - limited to one business</b> ($5000 minimum Cash Donation)</strike> - <b>FILLED</b></h3>-->
+  <h3><b>Platinum Sponsor - limited to one business</b> ($5000 minimum Cash Donation)</h3>
+  <ul>
+  <li>Professionally painted bean bag board with your company logo</li>
+  <li>Company name integrated into Cabin Fever logo on shirts and printed advertisements</li>
+  <li>Company logo on 300+ shirts</li>
+  <li>Professionally printed banner with logo displayed at event</li>
+  <li>Company logo integrated into Cabin Fever logo on web site</li>
+  <li>Company logo on Cabin Fever website home page with link to business web site</li>
+  <li>Company intro on all verbal advertising (tv/radio) "Cabin Fever presented by ..."</li>
+  <li>Business logo on printed advertisements</li>
+  <li>Display table at event</li>
+  <li>Ability to provide in-bag marketing door prize/gift for 256 players and/or 1000+ guests</li>
+  <li>1 Free team entry</li>
+  <li>Receive first rights to sponsor in subsequent years at this level</li>
+  </ul>
+  </div>
+  
+  <div class="notfull">
+  <!--<h3><strike><b>Gold Sponsors</b> ($500 minimum Cash Donation)</strike> - <b>FILLED</b></h3>-->
+  <h3><b>Gold Sponsors</b> ($500 minimum Cash Donation)</h3>
+  <ul>
+  <li>Professionally painted bean bag board with your company logo</li>
+  <li>Company logo on 300+ shirts</li>
+  <li>Professionally printed banner with logo displayed at event</li>
+  <li>Company logo on Cabin Fever website home page with link to business web site</li>
+  <li>Business logo on printed advertisements</li>
+  <li>Ability to provide in-bag marketing door prize/gift for 256 players and/or 1000+ guests</li>
+  <li>Receive first rights to sponsor in subsequent years at this level</li>
+  </ul>
+  </div>
+  
+  <div class="notfull">
+  <h3><b>Silver Sponsors</b> ($250 minimum Cash Donation)</h3>
+  <ul>
+  <li>Company logo on 300+ shirts</li>
+  <li>Professionally printed banner with logo displayed at event</li>
+  <li>Website exposure with link to business</li>
+  <li>Ability to provide in-bag marketing door prize/gift for 256 players and/or 1000+ guests</li>
+  </ul>
+  </div>
+  
+  <div class="notfull">
+  <!-- <h3><b>Bronze Sponsors</b> ($100 minimum Cash Donation, may purchase multiple spots, max 16 spots available) - <b>only 4 remaining</b></h3> -->
+  <h3><b>Bronze Sponsors</b> ($100 minimum Cash Donation, may purchase multiple spots, max 16 spots available)</h3>
+  <ul>
+  <li>Company logo or personal tribute/dedication on scoreboard</li>
+  <li>Website exposure with link to business</li>
+  </ul>
+  <br>
+  </div>
+  
+  <!--
+  <div class="notfull">
+  <h3><b>Premier Donors</b> (Silent Auction Items, $250 minimum retail value considered)</h3>
+  <ul>
+  <li>Company name on all event t-shirts</li>
+  <li>Website exposure with link to business</li>
+  </ul>
+  </div>
+  -->
+  
+  <div class="notfull">
+  <h3><b>Donors</b> (Silent Auction Items, Door Prizes, etc.)</h3>
+  <ul>
+  <li>Website Exposure with link to business</li>
+  </ul>
+  <br>
+  </div>
+  
+  <div class="notfull">
+  <!-- <h3><b>Big Ticket Sponsorship</b> ($100 minimum retail value considered) - <b>FILLED</b></h3> -->
+  <h3><b>Big Ticket Sponsorship</b> ($100 minimum retail value considered)</h3>
+  <ul>
+  <li>Company name listed on 2500 raffle tickets next to product</li>
+  <li>These are $10 raffle tickets with 25 items to win</li>
+  </ul>
+  </div>
+  
+  <h3><b>Additional Information</b></h3>
+  <ul>
+  <li>Logo - needs to be vector based image (.eps) if possible in order to ensure the best possible graphic depiction on ads and t-shirts</li>
+  </ul>
+  <p>
+  Wondering what to donate? Take a look <a href="http://www.cabinfeverbeanbags.org/p/donor.html">here</a> at last years donations for ideas.
+  </div>
+  
+  
+  
+  
+  <script type="text/javascript">
+   function auctionDataCallback(data) {
+        var dnrLstData = data.auctionGroups;
+        var $donorList = $('#donorList');
+        for (var dnrCatKey in dnrLstData) {
+          var dnrCatData = dnrLstData[dnrCatKey];
+          var $donorCat = $('<div/>', {'class': 'category', 'name': dnrCatKey});
+          $donorList.append($donorCat);
+          for (var dnrKey in dnrCatData) {
+            var dnrData = dnrCatData[dnrKey];
+            var $donor = $('<div/>', {'class': 'donor'});
+            $donorCat.prepend($donor);
+            for (var dnrAttKey in dnrData) {
+              $donor.attr(dnrAttKey, dnrData[dnrAttKey]);
+            }
           }
         }
-      }
-      // sort donors at each level - newest to oldest
-      $('#donorList .category').each(function(index){
-         $(this).sortit('.donor', function(a,b){
-            var d1 = a && a.attributes['date']!=undefined ? new Date(a.attributes['date'].value) : new Date();
-            var d2 = b && b.attributes['date']!=undefined ? new Date(b.attributes['date'].value) : new Date();
-            return d2.getTime()-d1.getTime();
-         });
+        // sort donors at each level - newest to oldest
+        $('#donorList .category').each(function(index){
+           $(this).sortit('.donor', function(a,b){
+              var d1 = a && a.attributes['date']!=undefined ? new Date(a.attributes['date'].value) : new Date();
+              var d2 = b && b.attributes['date']!=undefined ? new Date(b.attributes['date'].value) : new Date();
+              return d2.getTime()-d1.getTime();
+           });
+        });
+       
+      var $cindicators = $('.carousel-indicators');
+      var $cinner = $('.carousel-inner');
+      // now walk through all the items for rendering
+      $('.donor').each(function(index){
+        // reference the item attributes
+        var $s = $(this);
+        var $name = $s.attr('name');
+        var $url = $s.attr('url');
+        var $desc = $s.attr('desc');
+        var $img = $s.attr('img');
+        if (!$img) {
+         $img = baseURL+'/img/auction/'+$desc+'.png';
+        } else if (!$img.toLowerCase().startsWith("http")) {
+         $img = baseURL+'/img/auction/'+$img;
+        }
+        var $value = $s.attr('value');
+        if ($value && $value.length>0) {
+           $value = '$'+$value+' value';
+        }
+        // add displayable elements under each donor item
+        $s.append('<div class="sponsor-frame">'+
+                    '<a href="'+$img+'" target="_blank"><img src="'+$img+'"/></a>'+
+                    '<div class="caption">'+$desc+'<br><a href="'+$url+'" target="_blank">'+$name+'</a><br>'+$value+'</div>'+
+                  '</div>');
+        // todo: add recent items to the carousel
+        if (index===0) {
+          $cindicators.append('<li data-target="#auction-carousel" data-slide-to="'+index+'" class="active"></li>');
+          $cinner.append('<div class="item active">'+
+                            '<img src="'+$img+'"/>'+
+                            '<div class="carousel-caption">'+$desc+'<br><a href="'+$url+'" target="_blank">'+$name+'</a></div>'+
+                         '</div>');
+        } else {
+          $cindicators.append('<li data-target="#auction-carousel" data-slide-to="'+index+'"></li>');
+          $cinner.append('<div class="item">'+
+                            '<img src="'+$img+'"/>'+
+                            '<div class="carousel-caption">'+$desc+'<br><a href="'+$url+'" target="_blank">'+$name+'</a></div>'+
+                         '</div>');
+        }
+                            
       });
-
-    var $cindicators = $('.carousel-indicators');
-    var $cinner = $('.carousel-inner');
-    // now walk through all the items for rendering
-    $('.donor').each(function(index){
-      // reference the item attributes
-      var $s = $(this);
-      var $name = $s.attr('name');
-      var $url = $s.attr('url');
-      var $desc = $s.attr('desc');
-      var $img = $s.attr('img');
-      if (!$img) {
-       $img = baseURL+'/img/auction/'+$desc+'.png';
-      } else if (!$img.toLowerCase().startsWith("http")) {
-       $img = baseURL+'/img/auction/'+$img;
-      }
-      var $value = $s.attr('value');
-      if ($value && $value.length>0) {
-         $value = '$'+$value+' value';
-      }
-      // add displayable elements under each donor item
-      $s.append('<div class="sponsor-frame">'+
-                  '<a href="'+$img+'" target="_blank"><img src="'+$img+'"/></a>'+
-                  '<div class="caption">'+$desc+'<br><a href="'+$url+'" target="_blank">'+$name+'</a><br>'+$value+'</div>'+
-                '</div>');
-      // todo: add recent items to the carousel
-      if (index===0) {
-        $cindicators.append('<li data-target="#auction-carousel" data-slide-to="'+index+'" class="active"></li>');
-        $cinner.append('<div class="item active">'+
-                          '<img src="'+$img+'"/>'+
-                          '<div class="carousel-caption">'+$desc+'<br><a href="'+$url+'" target="_blank">'+$name+'</a></div>'+
-                       '</div>');
-      } else {
-        $cindicators.append('<li data-target="#auction-carousel" data-slide-to="'+index+'"></li>');
-        $cinner.append('<div class="item">'+
-                          '<img src="'+$img+'"/>'+
-                          '<div class="carousel-caption">'+$desc+'<br><a href="'+$url+'" target="_blank">'+$name+'</a></div>'+
-                       '</div>');
-      }
-
+    }
+  
+    $(document).ready(function(){
+      loadJsonData('/auction_data.json', auctionDataCallback)
     });
-  }
-
-  $(document).ready(function(){
-    loadJsonData('/auction_data.json', auctionDataCallback)
-  });
-
-
-
-
-</script>
+  
+  
+  
+  
+  </script>
