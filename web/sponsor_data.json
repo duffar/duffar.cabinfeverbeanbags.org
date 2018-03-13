@@ -239,7 +239,7 @@
         "email": "",
         "url": "http://www.twsl.com/",
         "img": "tealwood.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "North Castle Graphics",
