@@ -16,7 +16,23 @@
         "paid": false
       }
     ],
+   "legacy": [
+      {
+        "name": "Digi International",
+        "email": "",
+        "url": "https://www.digi.com/",
+        "img": "digi_2color.png",
+        "paid": true
+      },
+    ],
    "gold": [
+      {
+        "name": "Digi International",
+        "email": "",
+        "url": "https://www.digi.com/",
+        "img": "digi_2color.png",
+        "paid": true
+      },
       {
         "name": "Babcock Auto Care",
         "email": "jeanababcock@gmail.com",
@@ -288,13 +304,6 @@
         "email": "info@iheart.com",
         "url": "https://www.iheart.com/",
         "img": "iheartradio.png",
-        "paid": true
-      },
-      {
-        "name": "Digi International",
-        "email": "",
-        "url": "https://www.digi.com/",
-        "img": "digi_2color.png",
         "paid": true
       },
       {
