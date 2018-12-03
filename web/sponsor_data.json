@@ -13,7 +13,7 @@
         "email": "cfbeanbag@gmail.com",
         "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
         "img": "Put-Your-Logo-Here.png",
-        "paid": false
+        "paid": true
       }
     ],
    "legacy": [
@@ -45,15 +45,15 @@
         "img": "https://www.myfcb.bank/images/logo.png",
         "paid": true
       },
+      {
+        "name": "Become a Cabin Fever Sponsor",
+        "email": "cfbeanbag@gmail.com",
+        "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
+        "img": "Put-Your-Logo-Here.png",
+        "paid": true
+      }
     ],
    "gold": [
-      {
-        "name": "Digi International",
-        "email": "",
-        "url": "https://www.digi.com/",
-        "img": "digi_2color.png",
-        "paid": false
-      },
       {
         "name": "Babcock Auto Care",
         "email": "jeanababcock@gmail.com",
@@ -346,7 +346,7 @@
         "email": "cfbeanbag@gmail.com",
         "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
         "img": "Put-Your-Logo-Here.png",
-        "paid": false
+        "paid": true
       }
     ],
    "silver": [
@@ -453,7 +453,7 @@
         "email": "cfbeanbag@gmail.com",
         "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
         "img": "Put-Your-Logo-Here.png",
-        "paid": false
+        "paid": true
       }
     ],
    "bronze": [
@@ -560,7 +560,7 @@
         "email": "cfbeanbag@gmail.com",
         "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
         "img": "Put-Your-Logo-Here.png",
-        "paid": false
+        "paid": true
       }
     ]
   }
