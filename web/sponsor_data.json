@@ -6,13 +6,6 @@
         "email": "",
         "url": "https://www.thinkbank.com",
         "img": "ThinkBank.jpg",
-        "paid": false
-      },
-      {
-        "name": "Become a Cabin Fever Sponsor",
-        "email": "cfbeanbag@gmail.com",
-        "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
-        "img": "Put-Your-Logo-Here.png",
         "paid": true
       }
     ],
@@ -43,6 +36,13 @@
         "email": "",
         "url": "https://www.myfcb.bank/",
         "img": "citizens.jpg",
+        "paid": true
+      },
+      {
+        "name": "WPS Antennas",
+        "email": "bob@wpsantennas.com",
+        "url": "http://www.wpsantennas.com/",
+        "img": "wpsantennas-sm.gif",
         "paid": true
       },
       {
@@ -108,13 +108,6 @@
         "email": "",
         "url": "http://www.northgatechiropractic.com/",
         "img": "2008 NGCC LOGO.png",
-        "paid": false
-      },
-      {
-        "name": "WPS Antennas",
-        "email": "bob@wpsantennas.com",
-        "url": "http://www.wpsantennas.com/",
-        "img": "wpsantennas-sm.gif",
         "paid": false
       },
       {
