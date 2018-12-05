@@ -46,6 +46,13 @@
         "paid": true
       },
       {
+        "name": "Babcock Auto Care",
+        "email": "jeanababcock@gmail.com",
+        "url": "http://www.babcockautocare.com",
+        "img": "Babcock.jpg",
+        "paid": true
+      },
+      {
         "name": "Become a Cabin Fever Sponsor",
         "email": "cfbeanbag@gmail.com",
         "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
@@ -54,13 +61,6 @@
       }
     ],
    "gold": [
-      {
-        "name": "Babcock Auto Care",
-        "email": "jeanababcock@gmail.com",
-        "url": "http://www.babcockautocare.com",
-        "img": "Babcock.jpg",
-        "paid": true
-      },
       {
         "name": "All Climate Self Storage",
         "email": "manager@allclimateselfstorage.com",
