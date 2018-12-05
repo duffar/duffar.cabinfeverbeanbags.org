@@ -53,6 +53,13 @@
         "paid": true
       },
       {
+        "name": "Med City Creative",
+        "email": "jeff@medcitybrewing.com",
+        "url": "http://www.medcitybrewing.com/",
+        "img": "MCC.png",
+        "paid": true
+      },
+      {
         "name": "Become a Cabin Fever Sponsor",
         "email": "cfbeanbag@gmail.com",
         "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
@@ -185,13 +192,6 @@
         "email": "",
         "url": "http://www.midwestrepairables.com/",
         "img": "midwestrepairables.png",
-        "paid": false
-      },
-      {
-        "name": "Med City Creative",
-        "email": "jeff@medcitybrewing.com",
-        "url": "http://www.medcitybrewing.com/",
-        "img": "MCC.png",
         "paid": false
       },
       {
