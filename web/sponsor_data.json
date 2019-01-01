@@ -60,6 +60,27 @@
         "paid": true
       },
       {
+        "name": "Tealwood Senior Living",
+        "email": "",
+        "url": "http://www.twsl.com/",
+        "img": "tealwood.png",
+        "paid": true
+      },
+      {
+        "name": "Sound and Media Solutions",
+        "email": "info@soundandmediasolutions.com",
+        "url": "http://www.soundandmediasolutions.com/",
+        "img": "sms2.png",
+        "paid": true
+      },
+      {
+        "name": "Meshbesher & Spence",
+        "email": "",
+        "url": "http://www.meshbesher.com",
+        "img": "meshbesher_spence.png",
+        "paid": true
+      },
+      {
         "name": "Become a Cabin Fever Sponsor",
         "email": "cfbeanbag@gmail.com",
         "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
@@ -153,13 +174,6 @@
         "paid": false
       },
       {
-        "name": "Meshbesher & Spence",
-        "email": "",
-        "url": "http://www.meshbesher.com",
-        "img": "meshbesher_spence.png",
-        "paid": false
-      },
-      {
         "name": "Town Square Media",
         "email": "Shannon.knoepke@townsquaremedia.com",
         "url": "http://www.townsquaremedia.com",
@@ -192,7 +206,7 @@
         "email": "",
         "url": "http://www.midwestrepairables.com/",
         "img": "midwestrepairables.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Ace Midwest Moving and Storage",
@@ -258,13 +272,6 @@
         "paid": false
       },
       {
-        "name": "Tealwood Senior Living",
-        "email": "",
-        "url": "http://www.twsl.com/",
-        "img": "tealwood.png",
-        "paid": false
-      },
-      {
         "name": "North Castle Graphics",
         "email": "",
         "url": "http://www.northcastlegraphics.com/",
@@ -297,13 +304,6 @@
         "email": "",
         "url": "",
         "img": "luomaelectric.jpg",
-        "paid": false
-      },
-      {
-        "name": "Sound and Media Solutions",
-        "email": "info@soundandmediasolutions.com",
-        "url": "http://www.soundandmediasolutions.com/",
-        "img": "sms2.png",
         "paid": false
       },
       {
