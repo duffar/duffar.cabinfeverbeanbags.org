@@ -81,6 +81,27 @@
         "paid": true
       },
       {
+        "name": "Luoma Electric",
+        "email": "",
+        "url": "",
+        "img": "luomaelectric.jpg",
+        "paid": true
+      },
+      {
+        "name": "Saratoga Partnership",
+        "email": "j_dohlman@hotmail.com",
+        "url": "http://saratogapartnership.com/",
+        "img": "Saratoga_Partnership_Web_Logo.png",
+        "paid": true
+      },
+      {
+        "name": "Sam's Club",
+        "email": "",
+        "url": "http://www.samsclub.com/",
+        "img": "samsclub.jpg",
+        "paid": true
+      },
+      {
         "name": "Become a Cabin Fever Sponsor",
         "email": "cfbeanbag@gmail.com",
         "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
@@ -136,7 +157,7 @@
         "email": "",
         "url": "http://www.northgatechiropractic.com/",
         "img": "2008 NGCC LOGO.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "All Systems",
@@ -188,13 +209,6 @@
         "paid": false
       },
       {
-        "name": "Saratoga Partnership",
-        "email": "j_dohlman@hotmail.com",
-        "url": "http://saratogapartnership.com/",
-        "img": "Saratoga_Partnership_Web_Logo.png",
-        "paid": false
-      },
-      {
         "name": "Rochester Police Athletic League",
         "email": "",
         "url": "http://rochesterpal.com/",
@@ -227,7 +241,7 @@
         "email": "",
         "url": "http://www.reichelfoods.com/",
         "img": "ReichelSmall.jpg",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Riverstone Psychological Services",
@@ -237,18 +251,11 @@
         "paid": false
       },
       {
-        "name": "Sam's Club",
-        "email": "",
-        "url": "http://www.samsclub.com/",
-        "img": "samsclub.jpg",
-        "paid": false
-      },
-      {
         "name": "CWS",
         "email": "kim@cws.net",
         "url": "http://www.cws.net/",
         "img": "cws.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "CH Robinson",
@@ -283,14 +290,14 @@
         "email": "",
         "url": "http://www.kttc.com/",
         "img": "kttc-tv.gif",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Spin Drive Dj's",
         "email": "",
         "url": "",
         "img": "spindrive.jpg",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Custom Alarm",
@@ -300,25 +307,18 @@
         "paid": false
       },
       {
-        "name": "Luoma Electric",
-        "email": "",
-        "url": "",
-        "img": "luomaelectric.jpg",
-        "paid": false
-      },
-      {
         "name": "iHeartRADIIO",
         "email": "info@iheart.com",
         "url": "https://www.iheart.com/",
         "img": "iheartradio.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "KBS-Kreofsky Building Supply",
         "email": "",
         "url": "http://www.kbscompanies.com/",
         "img": "kbs.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "J & S Repair",
