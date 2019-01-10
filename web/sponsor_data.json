@@ -102,6 +102,13 @@
         "paid": true
       },
       {
+        "name": "Jag Tours",
+        "email": "",
+        "url": "http://www.jagtours.com",
+        "img": "jag.jpg",
+        "paid": true
+      },
+      {
         "name": "Become a Cabin Fever Sponsor",
         "email": "cfbeanbag@gmail.com",
         "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
@@ -116,13 +123,6 @@
         "url": "http://www.allclimateselfstorage.com",
         "img": "All Climate Slf. Storage Logo.png",
         "paid": false
-      },
-      {
-        "name": "Jag Tours",
-        "email": "",
-        "url": "http://www.jagtours.com",
-        "img": "jag.jpg",
-        "paid": true
       },
       {
         "name": "TLS Companies",
