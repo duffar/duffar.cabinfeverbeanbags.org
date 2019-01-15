@@ -109,6 +109,13 @@
         "paid": true
       },
       {
+        "name": "Chad Behnken",
+        "email": "chad@hamiltonmnre.com",
+        "url": "https://www.linkedin.com/in/chad-behnken-17822672/",
+        "img": "ChadBehnken.jpg",
+        "paid": true
+      },
+      {
         "name": "Become a Cabin Fever Sponsor",
         "email": "cfbeanbag@gmail.com",
         "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
@@ -262,13 +269,6 @@
         "email": "413-trans@chrobinson.com",
         "url": "https://www.chrobinson.com/",
         "img": "CHRobinson.png",
-        "paid": false
-      },
-      {
-        "name": "Chad Behnken",
-        "email": "chad@hamiltonmnre.com",
-        "url": "https://www.linkedin.com/in/chad-behnken-17822672/",
-        "img": "ChadBehnken.jpg",
         "paid": false
       },
       {
