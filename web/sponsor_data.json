@@ -123,6 +123,13 @@
         "paid": true
       },
       {
+        "name": "Creative Hardwoods",
+        "email": "amy@creativehf.com",
+        "url": "http://www.creativehf.com/",
+        "img": "CreativeHardoodFloors.png",
+        "paid": true
+      },
+      {
         "name": "Become a Cabin Fever Sponsor",
         "email": "cfbeanbag@gmail.com",
         "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
@@ -157,21 +164,14 @@
         "email": "",
         "url": "http://www.rochestereventcenter.com/",
         "img": "Rochester-International-Event-Center-logo.png",
-        "paid": false
-      },
-      {
-        "name": "Creative Hardwoods",
-        "email": "amy@creativehf.com",
-        "url": "http://www.creativehf.com/",
-        "img": "CreativeHardoodFloors.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Mike Meyer Sign Painting",
         "email": "",
         "url": "https://www.facebook.com/Mike-Meyer-Sign-Painter-253709194689693/",
         "img": "MIKE MEYERLOGO.jpg",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Northgate Chiropractic",
@@ -376,7 +376,7 @@
         "email": "danallovermedia@aol.com",
         "url": "http://rochestermn.allovermedia.com/",
         "img": "AllOverMedia.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "The Clarion Inn",
