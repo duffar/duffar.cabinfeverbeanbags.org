@@ -109,6 +109,13 @@
         "paid": true
       },
       {
+        "name": "Riverside Acres Tree Farm",
+        "email": "info@riversideacrestreefarm.com",
+        "url": "http://www.riversideacrestreefarm.com/",
+        "img": "riversideacres.png",
+        "paid": true
+      },
+      {
         "name": "Chad Behnken",
         "email": "chad@hamiltonmnre.com",
         "url": "https://www.linkedin.com/in/chad-behnken-17822672/",
@@ -130,6 +137,13 @@
         "url": "http://www.allclimateselfstorage.com",
         "img": "All Climate Slf. Storage Logo.png",
         "paid": false
+      },
+      {
+        "name": "Cherry Street Properties",
+        "email": "info@cherrystreetproperties.com",
+        "url": "",
+        "img": "cherrystreet.png",
+        "paid": true
       },
       {
         "name": "TLS Companies",
