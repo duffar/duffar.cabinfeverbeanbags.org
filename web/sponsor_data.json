@@ -130,6 +130,13 @@
         "paid": true
       },
       {
+        "name": "Guns Plus Ammo",
+        "email": "dan@jsrepair.com",
+        "url": "http://gunsplusammo.com/",
+        "img": "gunsplusammo.png",
+        "paid": true
+      },
+      {
         "name": "Become a Cabin Fever Sponsor",
         "email": "cfbeanbag@gmail.com",
         "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
@@ -143,7 +150,7 @@
         "email": "manager@allclimateselfstorage.com",
         "url": "http://www.allclimateselfstorage.com",
         "img": "All Climate Slf. Storage Logo.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Cherry Street Properties",
@@ -290,7 +297,7 @@
         "email": "",
         "url": "http://www.midwestsigntech.com/",
         "img": "MWST logo.jpg",
-        "paid": false
+        "paid": true
       },
       {
         "name": "North Castle Graphics",
@@ -465,6 +472,13 @@
     ],
    "bronze": [
       {
+        "name": "Ranfranz and Vine Funueral Homes",
+        "email": "",
+        "url": "https://www.ranfranzandvinefh.com/",
+        "img": "RanfranzLogo.png",
+        "paid": true
+      },
+      {
         "name": "HOM Furniture",
         "email": "",
         "url": "https://www.homfurniture.com/",
@@ -497,13 +511,6 @@
         "email": "",
         "url": "https://www.linkedin.com/company/schott-distributing-co-inc",
         "img": "schott.png",
-        "paid": false
-      },
-      {
-        "name": "Guns Plus Ammo",
-        "email": "dan@jsrepair.com",
-        "url": "http://gunsplusammo.com/",
-        "img": "gunsplusammo.png",
         "paid": false
       },
       {
