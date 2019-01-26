@@ -432,7 +432,7 @@
         "email": "",
         "url": "http://www.audiovisuallogic.com/",
         "img": "AVLogic.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Safelite AutoGlass",
