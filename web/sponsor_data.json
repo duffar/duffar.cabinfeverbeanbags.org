@@ -234,7 +234,7 @@
         "email": "bruce@ryan-ws.com",
         "url": "http://www.ryan-ws.com",
         "img": "ryan-windows-logo.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Rochester Police Athletic League",
@@ -318,7 +318,7 @@
         "email": "",
         "url": "",
         "img": "spindrive.jpg",
-        "paid": true
+        "paid": false
       },
       {
         "name": "Custom Alarm",
