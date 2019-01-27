@@ -356,6 +356,13 @@
         "paid": false
       },
       {
+        "name": "Med City Beat",
+        "email": "info@medcitybeat.com",
+        "url": "http://www.medcitybeat.com/",
+        "img": "medcitybeat.png",
+        "paid": true
+      },
+      {
         "name": "Become a Cabin Fever Sponsor",
         "email": "cfbeanbag@gmail.com",
         "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
