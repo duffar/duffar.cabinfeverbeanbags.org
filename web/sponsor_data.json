@@ -130,11 +130,18 @@
         "paid": true
       },
       {
+        "name": "J&S JCB",
+        "email": "dan@jsrepair.com",
+        "url": "http://www.jsrepair.com/",
+        "img": "js_jcb.png",
+        "paid": true
+      },
+      {
         "name": "Guns Plus Ammo",
         "email": "dan@jsrepair.com",
         "url": "http://gunsplusammo.com/",
         "img": "gunsplusammo.png",
-        "paid": true
+        "paid": false
       },
       {
         "name": "Become a Cabin Fever Sponsor",
@@ -340,13 +347,6 @@
         "url": "http://www.kbscompanies.com/",
         "img": "kbs.png",
         "paid": true
-      },
-      {
-        "name": "J & S Repair",
-        "email": "",
-        "url": "http://www.jsrepair.com/",
-        "img": "jsrepair.png",
-        "paid": false
       },
       {
         "name": "Great River Overhead Doors",
