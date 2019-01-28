@@ -9,7 +9,16 @@
         "paid": true
       }
     ],
-   "legacy": [
+    "garden": [
+        {
+            "name": "J&S JCB",
+            "email": "dan@jsrepair.com",
+            "url": "http://www.jsrepair.com/",
+            "img": "js_jcb.png",
+            "paid": true
+        }
+    ],
+    "legacy": [
       {
         "name": "Digi International",
         "email": "",
@@ -127,13 +136,6 @@
         "email": "amy@creativehf.com",
         "url": "http://www.creativehf.com/",
         "img": "CreativeHardoodFloors.png",
-        "paid": true
-      },
-      {
-        "name": "J&S JCB",
-        "email": "dan@jsrepair.com",
-        "url": "http://www.jsrepair.com/",
-        "img": "js_jcb.png",
         "paid": true
       },
       {
