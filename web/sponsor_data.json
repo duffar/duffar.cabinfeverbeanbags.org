@@ -146,6 +146,13 @@
         "paid": false
       },
       {
+        "name": "KBS-Kreofsky Building Supply",
+        "email": "",
+        "url": "http://www.kbscompanies.com/",
+        "img": "kbs.png",
+        "paid": true
+      },
+      {
         "name": "Become a Cabin Fever Sponsor",
         "email": "cfbeanbag@gmail.com",
         "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
@@ -208,7 +215,7 @@
         "email": "",
         "url": "http://www.premierbuildersmn.com/",
         "img": "PremierBuilders.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "A Cut Above",
@@ -299,7 +306,7 @@
         "email": "413-trans@chrobinson.com",
         "url": "https://www.chrobinson.com/",
         "img": "CHRobinson.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Midwest Sign Tech",
@@ -341,13 +348,6 @@
         "email": "info@iheart.com",
         "url": "https://www.iheart.com/",
         "img": "iheartradio.png",
-        "paid": true
-      },
-      {
-        "name": "KBS-Kreofsky Building Supply",
-        "email": "",
-        "url": "http://www.kbscompanies.com/",
-        "img": "kbs.png",
         "paid": true
       },
       {
@@ -455,7 +455,7 @@
         "email": "",
         "url": "https://www.kandmglass.com/",
         "img": "kandmglass.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Hamilton Plumbing",
@@ -513,7 +513,7 @@
         "email": "info@shoprochester.org",
         "url": "http://www.shoprochester.org/",
         "img": "ShopRochester.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Erin Young Photography ",
@@ -562,7 +562,7 @@
         "email": "",
         "url": "http://innerbalancemn.com/",
         "img": "InnerBalanceMassage.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "In memory of Irv Gage",
