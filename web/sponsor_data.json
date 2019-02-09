@@ -385,7 +385,7 @@
         "email": "info@iheart.com",
         "url": "http://charlieseateryandpub.com/",
         "img": "charlies.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "All Over Media",
@@ -413,7 +413,7 @@
         "email": "aeboards@gmail.com",
         "url": "http://amishelectricbbs.com/",
         "img": "AmishElectric.jpg",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Merchants Bank",
@@ -527,21 +527,21 @@
         "email": "",
         "url": "https://www.linkedin.com/company/schott-distributing-co-inc",
         "img": "schott.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Heartland Tire",
         "email": "",
         "url": "http://www.heartlandtireservice.com/",
         "img": "heartlandtire.jpg",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Mike Busch State Farm",
         "email": "mike.busch.b40f@statefarm.com",
         "url": "http://www.statefarm.com/agent/US/MN/Rochester/Mike-Busch-1BMR31YS000",
         "img": "MikeBusch.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Bobs Copy Shop",
