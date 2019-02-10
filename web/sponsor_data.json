@@ -152,7 +152,14 @@
         "img": "gunsplusammo.png",
         "paid": false
       },
-      {
+    {
+        "name": "Nick Meeker - Guaranteed Rate",
+        "email": "nick.meeker@rate.com",
+        "url": "https://www.guaranteedrate.com/loan-expert/nickmeeker",
+        "img": "GuaranteedRate.svg",
+        "paid": true
+    },
+    {
         "name": "Become a Cabin Fever Sponsor",
         "email": "cfbeanbag@gmail.com",
         "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
