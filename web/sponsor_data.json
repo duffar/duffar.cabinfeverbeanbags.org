@@ -160,6 +160,13 @@
         "paid": true
     },
     {
+        "name": "TLS Companies",
+        "email": "info@tlscompanies.com",
+        "url": "http://www.tlscompanies.com/",
+        "img": "tls.png",
+        "paid": true
+    },
+    {
         "name": "Become a Cabin Fever Sponsor",
         "email": "cfbeanbag@gmail.com",
         "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
@@ -181,13 +188,6 @@
         "url": "",
         "img": "cherrystreet.png",
         "paid": true
-      },
-      {
-        "name": "TLS Companies",
-        "email": "info@tlscompanies.com",
-        "url": "http://www.tlscompanies.com/",
-        "img": "tls.png",
-        "paid": false
       },
       {
         "name": "Rochester International Event Center",
