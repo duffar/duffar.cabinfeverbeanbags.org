@@ -167,6 +167,13 @@
         "paid": true
     },
     {
+        "name": "Tom Kadlec Honda",
+        "email": "info@tomkadlec.com",
+        "url": "https://www.tomkadlec.com/",
+        "img": "tomkadlec.png",
+        "paid": true
+    },
+    {
         "name": "Become a Cabin Fever Sponsor",
         "email": "cfbeanbag@gmail.com",
         "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
