@@ -181,6 +181,13 @@
         "paid": true
     },
     {
+        "name": "Bremer Bank",
+        "email": "",
+        "url": "https://www.bremer.com/",
+        "img": "bremer.png",
+        "paid": true
+    },
+    {
         "name": "Become a Cabin Fever Sponsor",
         "email": "cfbeanbag@gmail.com",
         "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
@@ -493,6 +500,20 @@
         "paid": true
       },
       {
+          "name": "MegaWatt Entertainment",
+          "email": "",
+          "url": "https://www.megawattgametrailer.com/",
+          "img": "megawatt.png",
+          "paid": false
+      },
+      {
+          "name": "Elite Entertainment",
+          "email": "",
+          "url": "https://www.facebook.com/jacob.nichols.716",
+          "img": "EliteEntertainment.png",
+          "paid": false
+      },
+      {
         "name": "Become a Cabin Fever Sponsor",
         "email": "cfbeanbag@gmail.com",
         "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
@@ -562,7 +583,7 @@
         "email": "",
         "url": "http://www.bobscopyshop.com/",
         "img": "bobscopyshop.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "TweetBeam",
