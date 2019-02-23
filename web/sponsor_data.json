@@ -504,14 +504,14 @@
           "email": "",
           "url": "https://www.megawattgametrailer.com/",
           "img": "megawatt.png",
-          "paid": false
+          "paid": true
       },
       {
           "name": "Elite Entertainment",
           "email": "",
           "url": "https://www.facebook.com/jacob.nichols.716",
           "img": "EliteEntertainment.png",
-          "paid": false
+          "paid": true
       },
       {
         "name": "Become a Cabin Fever Sponsor",
@@ -590,7 +590,7 @@
         "email": "",
         "url": "http://www.tweetbeam.com/",
         "img": "tweetbeam.png",
-        "paid": false
+        "paid": true
       },
       {
         "name": "Inner Balance Massage",
