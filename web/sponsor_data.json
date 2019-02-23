@@ -188,6 +188,13 @@
         "paid": true
     },
     {
+        "name": "Premier Builders",
+        "email": "",
+        "url": "http://www.premierbuildersmn.com/",
+        "img": "PremierBuilders.png",
+        "paid": true
+    },
+    {
         "name": "Become a Cabin Fever Sponsor",
         "email": "cfbeanbag@gmail.com",
         "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
@@ -236,13 +243,6 @@
         "email": "TVerNess@allsysinst.com",
         "url": "http://www.allsysinst.com/",
         "img": "AllSystems.gif",
-        "paid": true
-      },
-      {
-        "name": "Premier Builders",
-        "email": "",
-        "url": "http://www.premierbuildersmn.com/",
-        "img": "PremierBuilders.png",
         "paid": true
       },
       {
