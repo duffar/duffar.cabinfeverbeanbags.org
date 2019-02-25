@@ -1,632 +1,625 @@
 {
- "sponsorGroups": {
-   "platinum": [
-      {
-        "name": "Think Mutual Bank",
-        "email": "",
-        "url": "https://www.thinkbank.com",
-        "img": "ThinkBank.jpg",
-        "paid": true
-      }
-    ],
-    "beergarden": [
-        {
-            "name": "J&S JCB",
-            "email": "dan@jsrepair.com",
-            "url": "http://www.jsrepair.com/",
-            "img": "js_jcb.png",
+    "sponsorGroups": {
+        "platinum": [{
+            "name": "Think Mutual Bank",
+            "email": "",
+            "url": "https://www.thinkbank.com",
+            "img": "ThinkBank.jpg",
             "paid": true
-        },
-      {
-        "name": "KBS-Kreofsky Building Supply",
-        "email": "",
-        "url": "http://www.kbscompanies.com/",
-        "img": "kbs.png",
-        "paid": true
-      }
-    ],
-    "legacy": [
-      {
-        "name": "Digi International",
-        "email": "",
-        "url": "https://www.digi.com/",
-        "img": "digi_2color.png",
-        "paid": true
-      },
-      {
-        "name": "Jill Fasbender Farmers Insurance",
-        "email": "jfasbender@farmersagent.com",
-        "url": "http://www.farmersagent.com/jfasbender",
-        "img": "farmers.png",
-        "paid": true
-      },
-      {
-        "name": "RealtyEdge-Kyle Swanson",
-        "email": "",
-        "url": "https://www.therealtyedge.com/agents/Kyle+Swanson",
-        "img": "https://d9la9jrhv6fdd.cloudfront.net/companylogos/563.png",
-        "paid": true
-      },
-      {
-        "name": "First Citizens Bank - John Prebeck",
-        "email": "",
-        "url": "https://www.myfcb.bank/",
-        "img": "citizens.jpg",
-        "paid": true
-      },
-      {
-        "name": "WPS Antennas",
-        "email": "bob@wpsantennas.com",
-        "url": "http://www.wpsantennas.com/",
-        "img": "wpsantennas-sm.gif",
-        "paid": true
-      },
-      {
-        "name": "Babcock Auto Care",
-        "email": "jeanababcock@gmail.com",
-        "url": "http://www.babcockautocare.com",
-        "img": "Babcock.jpg",
-        "paid": true
-      },
-      {
-        "name": "Med City Creative",
-        "email": "jeff@medcitybrewing.com",
-        "url": "http://www.medcitybrewing.com/",
-        "img": "MCC.png",
-        "paid": true
-      },
-      {
-        "name": "Tealwood Senior Living",
-        "email": "",
-        "url": "http://www.twsl.com/",
-        "img": "tealwood.png",
-        "paid": true
-      },
-      {
-        "name": "Sound and Media Solutions",
-        "email": "info@soundandmediasolutions.com",
-        "url": "http://www.soundandmediasolutions.com/",
-        "img": "sms2.png",
-        "paid": true
-      },
-      {
-        "name": "Meshbesher & Spence",
-        "email": "",
-        "url": "http://www.meshbesher.com",
-        "img": "meshbesher_spence.png",
-        "paid": true
-      },
-      {
-        "name": "Luoma Electric",
-        "email": "",
-        "url": "",
-        "img": "luomaelectric.jpg",
-        "paid": true
-      },
-      {
-        "name": "Saratoga Partnership",
-        "email": "j_dohlman@hotmail.com",
-        "url": "http://saratogapartnership.com/",
-        "img": "Saratoga_Partnership_Web_Logo.png",
-        "paid": true
-      },
-      {
-        "name": "Sam's Club",
-        "email": "",
-        "url": "http://www.samsclub.com/",
-        "img": "samsclub.jpg",
-        "paid": true
-      },
-      {
-        "name": "Jag Tours",
-        "email": "",
-        "url": "http://www.jagtours.com",
-        "img": "jag.jpg",
-        "paid": true
-      },
-      {
-        "name": "Riverside Acres Tree Farm",
-        "email": "info@riversideacrestreefarm.com",
-        "url": "http://www.riversideacrestreefarm.com/",
-        "img": "riversideacres.png",
-        "paid": true
-      },
-      {
-        "name": "Chad Behnken",
-        "email": "chad@hamiltonmnre.com",
-        "url": "https://www.linkedin.com/in/chad-behnken-17822672/",
-        "img": "ChadBehnken.jpg",
-        "paid": true
-      },
-      {
-        "name": "Creative Hardwoods",
-        "email": "amy@creativehf.com",
-        "url": "http://www.creativehf.com/",
-        "img": "CreativeHardoodFloors.png",
-        "paid": true
-      },
-      {
-        "name": "Guns Plus Ammo",
-        "email": "dan@jsrepair.com",
-        "url": "http://gunsplusammo.com/",
-        "img": "gunsplusammo.png",
-        "paid": false
-      },
-    {
-        "name": "Nick Meeker - Guaranteed Rate",
-        "email": "nick.meeker@rate.com",
-        "url": "https://www.guaranteedrate.com/loan-expert/nickmeeker",
-        "img": "GuaranteedRate.png",
-        "paid": true
-    },
-    {
-        "name": "TLS Companies",
-        "email": "info@tlscompanies.com",
-        "url": "http://www.tlscompanies.com/",
-        "img": "tls.png",
-        "paid": true
-    },
-    {
-        "name": "Tom Kadlec Honda",
-        "email": "info@tomkadlec.com",
-        "url": "https://www.tomkadlec.com/",
-        "img": "tomkadlec.png",
-        "paid": true
-    },
-    {
-        "name": "A Cut Above",
-        "email": "",
-        "url": "http://www.manta.com/c/mm09zcs/a-cut-above-builders",
-        "img": "acutabove.png",
-        "paid": true
-    },
-    {
-        "name": "Bremer Bank",
-        "email": "",
-        "url": "https://www.bremer.com/",
-        "img": "bremer.png",
-        "paid": true
-    },
-    {
-        "name": "Premier Builders",
-        "email": "",
-        "url": "http://www.premierbuildersmn.com/",
-        "img": "PremierBuilders.png",
-        "paid": true
-    },
-    {
-        "name": "Become a Cabin Fever Sponsor",
-        "email": "cfbeanbag@gmail.com",
-        "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
-        "img": "Put-Your-Logo-Here.png",
-        "paid": true
-      }
-    ],
-   "gold": [
-      {
-        "name": "All Climate Self Storage",
-        "email": "manager@allclimateselfstorage.com",
-        "url": "http://www.allclimateselfstorage.com",
-        "img": "All Climate Slf. Storage Logo.png",
-        "paid": true
-      },
-      {
-        "name": "Cherry Street Properties",
-        "email": "info@cherrystreetproperties.com",
-        "url": "",
-        "img": "cherrystreet.png",
-        "paid": true
-      },
-      {
-        "name": "Rochester International Event Center",
-        "email": "",
-        "url": "http://www.rochestereventcenter.com/",
-        "img": "Rochester-International-Event-Center-logo.png",
-        "paid": true
-      },
-      {
-        "name": "Mike Meyer Sign Painting",
-        "email": "",
-        "url": "https://www.facebook.com/Mike-Meyer-Sign-Painter-253709194689693/",
-        "img": "MIKE MEYERLOGO.jpg",
-        "paid": true
-      },
-      {
-        "name": "Northgate Chiropractic",
-        "email": "",
-        "url": "http://www.northgatechiropractic.com/",
-        "img": "2008 NGCC LOGO.png",
-        "paid": true
-      },
-      {
-        "name": "All Systems",
-        "email": "TVerNess@allsysinst.com",
-        "url": "http://www.allsysinst.com/",
-        "img": "AllSystems.gif",
-        "paid": true
-      },
-      {
-        "name": "Ihrke Construction",
-        "email": "",
-        "url": "",
-        "img": "ihrke.jpg",
-        "paid": true
-      },
-      {
-        "name": "Image Smartz",
-        "email": "mitch@imagesmartz.com",
-        "url": "http://www.imagesmartz.com/",
-        "img": "imagesmartz.png",
-        "paid": false
-      },
-      {
-        "name": "Town Square Media",
-        "email": "Shannon.knoepke@townsquaremedia.com",
-        "url": "http://www.townsquaremedia.com",
-        "img": "townsquare.jpg",
-        "paid": false
-      },
-      {
-        "name": "Ryan Windows & Siding",
-        "email": "bruce@ryan-ws.com",
-        "url": "http://www.ryan-ws.com",
-        "img": "ryan-windows-logo.png",
-        "paid": true
-      },
-      {
-        "name": "Rochester Police Athletic League",
-        "email": "",
-        "url": "http://rochesterpal.com/",
-        "img": "RochesterPal.png",
-        "paid": true
-      },
-      {
-        "name": "Midwest Repairables",
-        "email": "",
-        "url": "http://www.midwestrepairables.com/",
-        "img": "midwestrepairables.png",
-        "paid": true
-      },
-      {
-        "name": "Ace Midwest Moving and Storage",
-        "email": "scoyle@acemw.com",
-        "url": "http://acemw.com",
-        "img": "AceMidwest.jpg",
-        "paid": false
-      },
-      {
-        "name": "Kemps",
-        "email": "",
-        "url": "http://www.kemps.com/",
-        "img": "kemps.png",
-        "paid": false
-      },
-      {
-        "name": "Reichel Foods",
-        "email": "",
-        "url": "http://www.reichelfoods.com/",
-        "img": "ReichelSmall.jpg",
-        "paid": true
-      },
-      {
-        "name": "Riverstone Psychological Services",
-        "email": "",
-        "url": "http://www.riverstonepsychologicalservices.com/",
-        "img": "riverstone.jpg",
-        "paid": false
-      },
-      {
-        "name": "CWS",
-        "email": "kim@cws.net",
-        "url": "http://www.cws.net/",
-        "img": "cws.png",
-        "paid": true
-      },
-      {
-        "name": "CH Robinson",
-        "email": "413-trans@chrobinson.com",
-        "url": "https://www.chrobinson.com/",
-        "img": "CHRobinson.png",
-        "paid": true
-      },
-      {
-        "name": "Midwest Sign Tech",
-        "email": "",
-        "url": "http://www.midwestsigntech.com/",
-        "img": "MWST logo.jpg",
-        "paid": true
-      },
-      {
-        "name": "North Castle Graphics",
-        "email": "",
-        "url": "http://www.northcastlegraphics.com/",
-        "img": "NorthCastleGraphics.jpg",
-        "paid": false
-      },
-      {
-        "name": "KTTC",
-        "email": "",
-        "url": "http://www.kttc.com/",
-        "img": "kttc-tv.gif",
-        "paid": true
-      },
-      {
-        "name": "Spin Drive Dj's",
-        "email": "",
-        "url": "",
-        "img": "spindrive.jpg",
-        "paid": false
-      },
-      {
-        "name": "Custom Alarm",
-        "email": "Nikki@custom-alarm.com",
-        "url": "http://www.custom-alarm.com/",
-        "img": "CustomAlarm.png",
-        "paid": false
-      },
-      {
-        "name": "iHeartRADIIO",
-        "email": "info@iheart.com",
-        "url": "https://www.iheart.com/",
-        "img": "iheartradio.png",
-        "paid": true
-      },
-      {
-        "name": "Great River Overhead Doors",
-        "email": "",
-        "url": "http://www.greatriveroverheaddoor.com/",
-        "img": "http://www.greatriveroverheaddoor.com/images/GROD_LogoMain.jpg",
-        "paid": false
-      },
-      {
-        "name": "Med City Beat",
-        "email": "info@medcitybeat.com",
-        "url": "http://www.medcitybeat.com/",
-        "img": "medcitybeat.png",
-        "paid": true
-      },
-      {
-        "name": "Become a Cabin Fever Sponsor",
-        "email": "cfbeanbag@gmail.com",
-        "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
-        "img": "Put-Your-Logo-Here.png",
-        "paid": true
-      }
-    ],
-   "silver": [
-      {
-        "name": "Ellingson Companies",
-        "email": "PMcCann@ellingsoncompanies.com",
-        "url": "http://www.ellingsoncompanies.com/",
-        "img": "ellingson logo final.png",
-        "paid": false
-      },
-      {
-        "name": "Charlie's Eatery & Pub",
-        "email": "info@iheart.com",
-        "url": "http://charlieseateryandpub.com/",
-        "img": "charlies.png",
-        "paid": true
-      },
-      {
-        "name": "All Over Media",
-        "email": "danallovermedia@aol.com",
-        "url": "http://rochestermn.allovermedia.com/",
-        "img": "AllOverMedia.png",
-        "paid": true
-      },
-      {
-        "name": "The Clarion Inn",
-        "email": "",
-        "url": "http://www.clarionrochestermn.com",
-        "img": "clarion.png",
-        "paid": false
-      },
-      {
-        "name": "Braaten Construction",
-        "email": "office@braatencompanies.com",
-        "url": "http://braatencompanies.com/",
-        "img": "braaten.jpg",
-        "paid": false
-      },
-      {
-        "name": "Amish Electric",
-        "email": "aeboards@gmail.com",
-        "url": "http://amishelectricbbs.com/",
-        "img": "AmishElectric.jpg",
-        "paid": true
-      },
-      {
-        "name": "Merchants Bank",
-        "email": "",
-        "url": "https://www.merchantsbank.com/",
-        "img": "MerchantsBank.jpg",
-        "paid": false
-      },
-      {
-        "name": "Turning Waters",
-        "email": "",
-        "url": "http://www.turningwatersbandb.com/",
-        "img": "turningwaters.png",
-        "paid": false
-      },
-      {
-        "name": "The Urban Studio",
-        "email": "teresa@theurbanstudio.com",
-        "url": "http://theurbanstudio.com/",
-        "img": "TheUrbanStudio.png",
-        "paid": false
-      },
-      {
-        "name": "AudioVisual Logic",
-        "email": "",
-        "url": "http://www.audiovisuallogic.com/",
-        "img": "AVLogic.png",
-        "paid": true
-      },
-      {
-        "name": "Safelite AutoGlass",
-        "email": "",
-        "url": "https://www.safelite.com/stores/rochester-mn",
-        "img": "safelite.png",
-        "paid": false
-      },
-      {
-        "name": "K&M Glass",
-        "email": "",
-        "url": "https://www.kandmglass.com/",
-        "img": "kandmglass.png",
-        "paid": true
-      },
-      {
-        "name": "Hamilton Plumbing",
-        "email": "",
-        "url": "http://www.hamiltonplumbingrochester.com/",
-        "img": "hamiltonplumbing.png",
-        "paid": false
-      },
-      {
-        "name": "Five Dollar Pizza",
-        "email": "",
-        "url": "https://5dollarpizza.com/",
-        "img": "http://5dollarpizza.com/wp-content/uploads/2015/09/pizza-logo.png",
-        "paid": false
-      },
-      {
-        "name": "Kelly Brenno Carpenter Accounting & Tax Service",
-        "email": "info@kbctaxlady",
-        "url": "https://www.facebook.com/kbctaxlady/",
-        "img": "kbctaxlady.jpg",
-        "paid": true
-      },
-      {
-          "name": "MegaWatt Entertainment",
-          "email": "",
-          "url": "https://www.megawattgametrailer.com/",
-          "img": "megawatt.png",
-          "paid": true
-      },
-      {
-          "name": "Elite Entertainment",
-          "email": "",
-          "url": "https://www.facebook.com/jacob.nichols.716",
-          "img": "EliteEntertainment.jpg",
-          "paid": true
-      },
-      {
-        "name": "Become a Cabin Fever Sponsor",
-        "email": "cfbeanbag@gmail.com",
-        "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
-        "img": "Put-Your-Logo-Here.png",
-        "paid": true
-      }
-    ],
-   "bronze": [
-      {
-        "name": "Ranfranz and Vine Funueral Homes",
-        "email": "",
-        "url": "https://www.ranfranzandvinefh.com/",
-        "img": "RanfranzLogo.png",
-        "paid": true
-      },
-      {
-        "name": "HOM Furniture",
-        "email": "",
-        "url": "https://www.homfurniture.com/",
-        "img": "hom.jpg",
-        "paid": false
-      },
-      {
-        "name": "Stifel",
-        "email": "mjhogan69@yahoo.com",
-        "url": "http://www.stifel.com",
-        "img": "Stifel.png",
-        "paid": false
-      },
-      {
-        "name": "Shop Rochester",
-        "email": "info@shoprochester.org",
-        "url": "http://www.shoprochester.org/",
-        "img": "ShopRochester.png",
-        "paid": true
-      },
-      {
-        "name": "Erin Young Photography ",
-        "email": "ERIN@ERINYOUNGPHOTO.COM",
-        "url": "http://www.erinyoungphoto.com/",
-        "img": "ErinYoungPhotography.png",
-        "paid": false
-      },
-      {
-        "name": "Schott Distributing ",
-        "email": "",
-        "url": "https://www.linkedin.com/company/schott-distributing-co-inc",
-        "img": "schott.png",
-        "paid": true
-      },
-      {
-        "name": "Heartland Tire",
-        "email": "",
-        "url": "http://www.heartlandtireservice.com/",
-        "img": "heartlandtire.jpg",
-        "paid": true
-      },
-      {
-        "name": "Mike Busch State Farm",
-        "email": "mike.busch.b40f@statefarm.com",
-        "url": "http://www.statefarm.com/agent/US/MN/Rochester/Mike-Busch-1BMR31YS000",
-        "img": "MikeBusch.png",
-        "paid": true
-      },
-      {
-        "name": "Bobs Copy Shop",
-        "email": "",
-        "url": "http://www.bobscopyshop.com/",
-        "img": "bobscopyshop.png",
-        "paid": true
-      },
-      {
-        "name": "TweetBeam",
-        "email": "",
-        "url": "http://www.tweetbeam.com/",
-        "img": "tweetbeam.png",
-        "paid": true
-      },
-      {
-        "name": "Inner Balance Massage",
-        "email": "",
-        "url": "http://innerbalancemn.com/",
-        "img": "InnerBalanceMassage.png",
-        "paid": true
-      },
-      {
-        "name": "In memory of Irv Gage",
-        "email": "",
-        "url": "",
-        "img": "IrvGage.jpg",
-        "paid": false
-      },
-      {
-        "name": "In memory of Ray Monson",
-        "email": "",
-        "url": "",
-        "img": "RayMonson.jpg",
-        "paid": false
-      },
-      {
-        "name": "Nolting Dental",
-        "email": "",
-        "url": "https://www.noltingdentalcare.com/",
-        "img": "noltingdental.png",
-        "paid": false
-      },
-      {
-        "name": "Become a Cabin Fever Sponsor",
-        "email": "cfbeanbag@gmail.com",
-        "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
-        "img": "Put-Your-Logo-Here.png",
-        "paid": true
-      }
-    ]
-  }
+        }],
+        "beergarden": [{
+                "name": "J&S JCB",
+                "email": "dan@jsrepair.com",
+                "url": "http://www.jsrepair.com/",
+                "img": "js_jcb.png",
+                "paid": true
+            },
+            {
+                "name": "KBS-Kreofsky Building Supply",
+                "email": "",
+                "url": "http://www.kbscompanies.com/",
+                "img": "kbs.png",
+                "paid": true
+            },
+            {
+                "name": "Sam's Club",
+                "email": "",
+                "url": "http://www.samsclub.com/",
+                "img": "samsclub.jpg",
+                "paid": true
+            }
+        ],
+        "legacy": [{
+                "name": "Digi International",
+                "email": "",
+                "url": "https://www.digi.com/",
+                "img": "digi_2color.png",
+                "paid": true
+            },
+            {
+                "name": "Jill Fasbender Farmers Insurance",
+                "email": "jfasbender@farmersagent.com",
+                "url": "http://www.farmersagent.com/jfasbender",
+                "img": "farmers.png",
+                "paid": true
+            },
+            {
+                "name": "RealtyEdge-Kyle Swanson",
+                "email": "",
+                "url": "https://www.therealtyedge.com/agents/Kyle+Swanson",
+                "img": "https://d9la9jrhv6fdd.cloudfront.net/companylogos/563.png",
+                "paid": true
+            },
+            {
+                "name": "First Citizens Bank - John Prebeck",
+                "email": "",
+                "url": "https://www.myfcb.bank/",
+                "img": "citizens.jpg",
+                "paid": true
+            },
+            {
+                "name": "WPS Antennas",
+                "email": "bob@wpsantennas.com",
+                "url": "http://www.wpsantennas.com/",
+                "img": "wpsantennas-sm.gif",
+                "paid": true
+            },
+            {
+                "name": "Babcock Auto Care",
+                "email": "jeanababcock@gmail.com",
+                "url": "http://www.babcockautocare.com",
+                "img": "Babcock.jpg",
+                "paid": true
+            },
+            {
+                "name": "Med City Creative",
+                "email": "jeff@medcitybrewing.com",
+                "url": "http://www.medcitybrewing.com/",
+                "img": "MCC.png",
+                "paid": true
+            },
+            {
+                "name": "Tealwood Senior Living",
+                "email": "",
+                "url": "http://www.twsl.com/",
+                "img": "tealwood.png",
+                "paid": true
+            },
+            {
+                "name": "Sound and Media Solutions",
+                "email": "info@soundandmediasolutions.com",
+                "url": "http://www.soundandmediasolutions.com/",
+                "img": "sms2.png",
+                "paid": true
+            },
+            {
+                "name": "Meshbesher & Spence",
+                "email": "",
+                "url": "http://www.meshbesher.com",
+                "img": "meshbesher_spence.png",
+                "paid": true
+            },
+            {
+                "name": "Luoma Electric",
+                "email": "",
+                "url": "",
+                "img": "luomaelectric.jpg",
+                "paid": true
+            },
+            {
+                "name": "Saratoga Partnership",
+                "email": "j_dohlman@hotmail.com",
+                "url": "http://saratogapartnership.com/",
+                "img": "Saratoga_Partnership_Web_Logo.png",
+                "paid": true
+            },
+            {
+                "name": "Jag Tours",
+                "email": "",
+                "url": "http://www.jagtours.com",
+                "img": "jag.jpg",
+                "paid": true
+            },
+            {
+                "name": "Riverside Acres Tree Farm",
+                "email": "info@riversideacrestreefarm.com",
+                "url": "http://www.riversideacrestreefarm.com/",
+                "img": "riversideacres.png",
+                "paid": true
+            },
+            {
+                "name": "Chad Behnken",
+                "email": "chad@hamiltonmnre.com",
+                "url": "https://www.linkedin.com/in/chad-behnken-17822672/",
+                "img": "ChadBehnken.jpg",
+                "paid": true
+            },
+            {
+                "name": "Creative Hardwoods",
+                "email": "amy@creativehf.com",
+                "url": "http://www.creativehf.com/",
+                "img": "CreativeHardoodFloors.png",
+                "paid": true
+            },
+            {
+                "name": "Guns Plus Ammo",
+                "email": "dan@jsrepair.com",
+                "url": "http://gunsplusammo.com/",
+                "img": "gunsplusammo.png",
+                "paid": false
+            },
+            {
+                "name": "Nick Meeker - Guaranteed Rate",
+                "email": "nick.meeker@rate.com",
+                "url": "https://www.guaranteedrate.com/loan-expert/nickmeeker",
+                "img": "GuaranteedRate.png",
+                "paid": true
+            },
+            {
+                "name": "TLS Companies",
+                "email": "info@tlscompanies.com",
+                "url": "http://www.tlscompanies.com/",
+                "img": "tls.png",
+                "paid": true
+            },
+            {
+                "name": "Tom Kadlec Honda",
+                "email": "info@tomkadlec.com",
+                "url": "https://www.tomkadlec.com/",
+                "img": "tomkadlec.png",
+                "paid": true
+            },
+            {
+                "name": "A Cut Above",
+                "email": "",
+                "url": "http://www.manta.com/c/mm09zcs/a-cut-above-builders",
+                "img": "acutabove.png",
+                "paid": true
+            },
+            {
+                "name": "Bremer Bank",
+                "email": "",
+                "url": "https://www.bremer.com/",
+                "img": "bremer.png",
+                "paid": true
+            },
+            {
+                "name": "Premier Builders",
+                "email": "",
+                "url": "http://www.premierbuildersmn.com/",
+                "img": "PremierBuilders.png",
+                "paid": true
+            },
+            {
+                "name": "Become a Cabin Fever Sponsor",
+                "email": "cfbeanbag@gmail.com",
+                "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
+                "img": "Put-Your-Logo-Here.png",
+                "paid": true
+            }
+        ],
+        "gold": [{
+                "name": "All Climate Self Storage",
+                "email": "manager@allclimateselfstorage.com",
+                "url": "http://www.allclimateselfstorage.com",
+                "img": "All Climate Slf. Storage Logo.png",
+                "paid": true
+            },
+            {
+                "name": "Cherry Street Properties",
+                "email": "info@cherrystreetproperties.com",
+                "url": "",
+                "img": "cherrystreet.png",
+                "paid": true
+            },
+            {
+                "name": "Rochester International Event Center",
+                "email": "",
+                "url": "http://www.rochestereventcenter.com/",
+                "img": "Rochester-International-Event-Center-logo.png",
+                "paid": true
+            },
+            {
+                "name": "Mike Meyer Sign Painting",
+                "email": "",
+                "url": "https://www.facebook.com/Mike-Meyer-Sign-Painter-253709194689693/",
+                "img": "MIKE MEYERLOGO.jpg",
+                "paid": true
+            },
+            {
+                "name": "Northgate Chiropractic",
+                "email": "",
+                "url": "http://www.northgatechiropractic.com/",
+                "img": "2008 NGCC LOGO.png",
+                "paid": true
+            },
+            {
+                "name": "All Systems",
+                "email": "TVerNess@allsysinst.com",
+                "url": "http://www.allsysinst.com/",
+                "img": "AllSystems.gif",
+                "paid": true
+            },
+            {
+                "name": "Ihrke Construction",
+                "email": "",
+                "url": "",
+                "img": "ihrke.jpg",
+                "paid": true
+            },
+            {
+                "name": "Image Smartz",
+                "email": "mitch@imagesmartz.com",
+                "url": "http://www.imagesmartz.com/",
+                "img": "imagesmartz.png",
+                "paid": false
+            },
+            {
+                "name": "Town Square Media",
+                "email": "Shannon.knoepke@townsquaremedia.com",
+                "url": "http://www.townsquaremedia.com",
+                "img": "townsquare.jpg",
+                "paid": false
+            },
+            {
+                "name": "Ryan Windows & Siding",
+                "email": "bruce@ryan-ws.com",
+                "url": "http://www.ryan-ws.com",
+                "img": "ryan-windows-logo.png",
+                "paid": true
+            },
+            {
+                "name": "Rochester Police Athletic League",
+                "email": "",
+                "url": "http://rochesterpal.com/",
+                "img": "RochesterPal.png",
+                "paid": true
+            },
+            {
+                "name": "Midwest Repairables",
+                "email": "",
+                "url": "http://www.midwestrepairables.com/",
+                "img": "midwestrepairables.png",
+                "paid": true
+            },
+            {
+                "name": "Ace Midwest Moving and Storage",
+                "email": "scoyle@acemw.com",
+                "url": "http://acemw.com",
+                "img": "AceMidwest.jpg",
+                "paid": false
+            },
+            {
+                "name": "Kemps",
+                "email": "",
+                "url": "http://www.kemps.com/",
+                "img": "kemps.png",
+                "paid": false
+            },
+            {
+                "name": "Reichel Foods",
+                "email": "",
+                "url": "http://www.reichelfoods.com/",
+                "img": "ReichelSmall.jpg",
+                "paid": true
+            },
+            {
+                "name": "Riverstone Psychological Services",
+                "email": "",
+                "url": "http://www.riverstonepsychologicalservices.com/",
+                "img": "riverstone.jpg",
+                "paid": false
+            },
+            {
+                "name": "CWS",
+                "email": "kim@cws.net",
+                "url": "http://www.cws.net/",
+                "img": "cws.png",
+                "paid": true
+            },
+            {
+                "name": "CH Robinson",
+                "email": "413-trans@chrobinson.com",
+                "url": "https://www.chrobinson.com/",
+                "img": "CHRobinson.png",
+                "paid": true
+            },
+            {
+                "name": "Midwest Sign Tech",
+                "email": "",
+                "url": "http://www.midwestsigntech.com/",
+                "img": "MWST logo.jpg",
+                "paid": true
+            },
+            {
+                "name": "North Castle Graphics",
+                "email": "",
+                "url": "http://www.northcastlegraphics.com/",
+                "img": "NorthCastleGraphics.jpg",
+                "paid": false
+            },
+            {
+                "name": "KTTC",
+                "email": "",
+                "url": "http://www.kttc.com/",
+                "img": "kttc-tv.gif",
+                "paid": true
+            },
+            {
+                "name": "Spin Drive Dj's",
+                "email": "",
+                "url": "",
+                "img": "spindrive.jpg",
+                "paid": false
+            },
+            {
+                "name": "Custom Alarm",
+                "email": "Nikki@custom-alarm.com",
+                "url": "http://www.custom-alarm.com/",
+                "img": "CustomAlarm.png",
+                "paid": false
+            },
+            {
+                "name": "iHeartRADIIO",
+                "email": "info@iheart.com",
+                "url": "https://www.iheart.com/",
+                "img": "iheartradio.png",
+                "paid": true
+            },
+            {
+                "name": "Great River Overhead Doors",
+                "email": "",
+                "url": "http://www.greatriveroverheaddoor.com/",
+                "img": "http://www.greatriveroverheaddoor.com/images/GROD_LogoMain.jpg",
+                "paid": false
+            },
+            {
+                "name": "Med City Beat",
+                "email": "info@medcitybeat.com",
+                "url": "http://www.medcitybeat.com/",
+                "img": "medcitybeat.png",
+                "paid": true
+            },
+            {
+                "name": "Become a Cabin Fever Sponsor",
+                "email": "cfbeanbag@gmail.com",
+                "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
+                "img": "Put-Your-Logo-Here.png",
+                "paid": true
+            }
+        ],
+        "silver": [{
+                "name": "Ellingson Companies",
+                "email": "PMcCann@ellingsoncompanies.com",
+                "url": "http://www.ellingsoncompanies.com/",
+                "img": "ellingson logo final.png",
+                "paid": false
+            },
+            {
+                "name": "Charlie's Eatery & Pub",
+                "email": "info@iheart.com",
+                "url": "http://charlieseateryandpub.com/",
+                "img": "charlies.png",
+                "paid": true
+            },
+            {
+                "name": "All Over Media",
+                "email": "danallovermedia@aol.com",
+                "url": "http://rochestermn.allovermedia.com/",
+                "img": "AllOverMedia.png",
+                "paid": true
+            },
+            {
+                "name": "The Clarion Inn",
+                "email": "",
+                "url": "http://www.clarionrochestermn.com",
+                "img": "clarion.png",
+                "paid": false
+            },
+            {
+                "name": "Braaten Construction",
+                "email": "office@braatencompanies.com",
+                "url": "http://braatencompanies.com/",
+                "img": "braaten.jpg",
+                "paid": false
+            },
+            {
+                "name": "Amish Electric",
+                "email": "aeboards@gmail.com",
+                "url": "http://amishelectricbbs.com/",
+                "img": "AmishElectric.jpg",
+                "paid": true
+            },
+            {
+                "name": "Merchants Bank",
+                "email": "",
+                "url": "https://www.merchantsbank.com/",
+                "img": "MerchantsBank.jpg",
+                "paid": false
+            },
+            {
+                "name": "Turning Waters",
+                "email": "",
+                "url": "http://www.turningwatersbandb.com/",
+                "img": "turningwaters.png",
+                "paid": false
+            },
+            {
+                "name": "The Urban Studio",
+                "email": "teresa@theurbanstudio.com",
+                "url": "http://theurbanstudio.com/",
+                "img": "TheUrbanStudio.png",
+                "paid": false
+            },
+            {
+                "name": "AudioVisual Logic",
+                "email": "",
+                "url": "http://www.audiovisuallogic.com/",
+                "img": "AVLogic.png",
+                "paid": true
+            },
+            {
+                "name": "Safelite AutoGlass",
+                "email": "",
+                "url": "https://www.safelite.com/stores/rochester-mn",
+                "img": "safelite.png",
+                "paid": false
+            },
+            {
+                "name": "K&M Glass",
+                "email": "",
+                "url": "https://www.kandmglass.com/",
+                "img": "kandmglass.png",
+                "paid": true
+            },
+            {
+                "name": "Hamilton Plumbing",
+                "email": "",
+                "url": "http://www.hamiltonplumbingrochester.com/",
+                "img": "hamiltonplumbing.png",
+                "paid": false
+            },
+            {
+                "name": "Five Dollar Pizza",
+                "email": "",
+                "url": "https://5dollarpizza.com/",
+                "img": "http://5dollarpizza.com/wp-content/uploads/2015/09/pizza-logo.png",
+                "paid": false
+            },
+            {
+                "name": "Kelly Brenno Carpenter Accounting & Tax Service",
+                "email": "info@kbctaxlady",
+                "url": "https://www.facebook.com/kbctaxlady/",
+                "img": "kbctaxlady.jpg",
+                "paid": true
+            },
+            {
+                "name": "MegaWatt Entertainment",
+                "email": "",
+                "url": "https://www.megawattgametrailer.com/",
+                "img": "megawatt.png",
+                "paid": true
+            },
+            {
+                "name": "Elite Entertainment",
+                "email": "",
+                "url": "https://www.facebook.com/jacob.nichols.716",
+                "img": "EliteEntertainment.jpg",
+                "paid": true
+            },
+            {
+                "name": "Become a Cabin Fever Sponsor",
+                "email": "cfbeanbag@gmail.com",
+                "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
+                "img": "Put-Your-Logo-Here.png",
+                "paid": true
+            }
+        ],
+        "bronze": [{
+                "name": "Ranfranz and Vine Funueral Homes",
+                "email": "",
+                "url": "https://www.ranfranzandvinefh.com/",
+                "img": "RanfranzLogo.png",
+                "paid": true
+            },
+            {
+                "name": "HOM Furniture",
+                "email": "",
+                "url": "https://www.homfurniture.com/",
+                "img": "hom.jpg",
+                "paid": false
+            },
+            {
+                "name": "Stifel",
+                "email": "mjhogan69@yahoo.com",
+                "url": "http://www.stifel.com",
+                "img": "Stifel.png",
+                "paid": false
+            },
+            {
+                "name": "Shop Rochester",
+                "email": "info@shoprochester.org",
+                "url": "http://www.shoprochester.org/",
+                "img": "ShopRochester.png",
+                "paid": true
+            },
+            {
+                "name": "Erin Young Photography ",
+                "email": "ERIN@ERINYOUNGPHOTO.COM",
+                "url": "http://www.erinyoungphoto.com/",
+                "img": "ErinYoungPhotography.png",
+                "paid": false
+            },
+            {
+                "name": "Schott Distributing ",
+                "email": "",
+                "url": "https://www.linkedin.com/company/schott-distributing-co-inc",
+                "img": "schott.png",
+                "paid": true
+            },
+            {
+                "name": "Heartland Tire",
+                "email": "",
+                "url": "http://www.heartlandtireservice.com/",
+                "img": "heartlandtire.jpg",
+                "paid": true
+            },
+            {
+                "name": "Mike Busch State Farm",
+                "email": "mike.busch.b40f@statefarm.com",
+                "url": "http://www.statefarm.com/agent/US/MN/Rochester/Mike-Busch-1BMR31YS000",
+                "img": "MikeBusch.png",
+                "paid": true
+            },
+            {
+                "name": "Bobs Copy Shop",
+                "email": "",
+                "url": "http://www.bobscopyshop.com/",
+                "img": "bobscopyshop.png",
+                "paid": true
+            },
+            {
+                "name": "TweetBeam",
+                "email": "",
+                "url": "http://www.tweetbeam.com/",
+                "img": "tweetbeam.png",
+                "paid": true
+            },
+            {
+                "name": "Inner Balance Massage",
+                "email": "",
+                "url": "http://innerbalancemn.com/",
+                "img": "InnerBalanceMassage.png",
+                "paid": true
+            },
+            {
+                "name": "In memory of Irv Gage",
+                "email": "",
+                "url": "",
+                "img": "IrvGage.jpg",
+                "paid": false
+            },
+            {
+                "name": "In memory of Ray Monson",
+                "email": "",
+                "url": "",
+                "img": "RayMonson.jpg",
+                "paid": false
+            },
+            {
+                "name": "Nolting Dental",
+                "email": "",
+                "url": "https://www.noltingdentalcare.com/",
+                "img": "noltingdental.png",
+                "paid": false
+            },
+            {
+                "name": "Become a Cabin Fever Sponsor",
+                "email": "cfbeanbag@gmail.com",
+                "url": "http://www.cabinfeverbeanbags.org/p/sponsors.html#becomeasponsor",
+                "img": "Put-Your-Logo-Here.png",
+                "paid": true
+            }
+        ]
+    }
 }
