@@ -484,7 +484,14 @@
                 "email": "",
                 "url": "https://5dollarpizza.com/",
                 "img": "http://5dollarpizza.com/wp-content/uploads/2015/09/pizza-logo.png",
-                "paid": false
+                "paid": true
+            },
+            {
+                "name": "Sveen Family",
+                "email": "",
+                "url": "",
+                "img": "sveenfamily.png",
+                "paid": true
             },
             {
                 "name": "Kelly Brenno Carpenter Accounting & Tax Service",
