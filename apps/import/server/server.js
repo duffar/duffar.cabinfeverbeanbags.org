@@ -86,6 +86,10 @@ async function getAuctionItems(auctionId) {
     return auctionItems;
 }
 
+function maskname(fullName) {
+    const parts = fullName.split(' ');
+    return `${parts[0]} ${parts[parts.length-1][0]}.`;
+}
 
 Meteor.methods({
   importSilentAuctionData: function () {
@@ -311,7 +315,7 @@ Meteor.methods({
                     outputDoc += '        <tr>\n';
                     outputDoc += '          <td>\n';
                     outputDoc += '            ' + teamName;
-                    outputDoc += ' <i>(' + team[0][playerNameKey] + ' &amp; ' + team[1][playerNameKey] + ')</i>\n';
+                    outputDoc += ' <i>(' + maskname(team[0][playerNameKey]) + ' &amp; ' + maskname(team[1][playerNameKey]) + ')</i>\n';
                     outputDoc += '          </td>\n';
                     outputDoc += '        </tr>\n';
                 }
