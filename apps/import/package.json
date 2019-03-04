@@ -1,0 +1,43 @@
+{
+    "name": "import",
+    "version": "1.0.0-0",
+    "private": true,
+    "scripts": {
+        "cypress:gui": "cypress open"
+    },
+    "dependencies": {
+        "@babel/runtime": "^7.2.0",
+        "cheerio": "^1.0.0-rc.2",
+        "lodash": "4.17.11",
+        "request": "^2.88.0",
+        "request-promise": "^4.2.4",
+        "shelljs": "0.3.0",
+        "xlsx": "0.7.12"
+    },
+    "devDependencies": {
+        "@babel/cli": "^7.2.3",
+        "@babel/core": "^7.2.2",
+        "@babel/node": "^7.2.2",
+        "@babel/plugin-transform-runtime": "^7.2.0",
+        "@babel/polyfill": "^7.2.5",
+        "@babel/preset-env": "^7.2.3",
+        "@babel/preset-react": "^7.0.0",
+        "@babel/register": "^7.0.0",
+        "babel-eslint": "^10.0.1",
+        "babel-jest": "^24.0.0",
+        "chai": "^4.2.0",
+        "chai-as-promised": "^7.1.1",
+        "coffeescript": "^2.3.2",
+        "cypress": "^3.1.5",
+        "cypress-plugin-snapshots": "^1.2.5",
+        "enzyme": "^3.8.0",
+        "enzyme-adapter-react-16": "^1.8.0",
+        "eslint": "^4.19.1",
+        "eslint-config-airbnb": "^16.1.0",
+        "eslint-import-resolver-meteor": "^0.4.0",
+        "eslint-plugin-import": "^2.12.0",
+        "eslint-plugin-jsx-a11y": "^6.0.3",
+        "eslint-plugin-meteor": "^5.0.0",
+        "eslint-plugin-react": "^7.8.2"
+    }
+}

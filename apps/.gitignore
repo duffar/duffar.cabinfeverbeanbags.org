@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+
+# IDE files
+.idea/
+.vscode/
+*.*~
+data
+
+# Generated files from tooling, builds, etc.
+.build
+
+node_modules
+test-report.json
+testrailReport.json
+tests/cypress/screenshots
+tests/cypress/videos
+
+*.log

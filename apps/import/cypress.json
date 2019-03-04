@@ -1,0 +1,15 @@
+{
+    "fixturesFolder": "tests/cypress/fixtures",
+    "integrationFolder": "tests/cypress/integration",
+    "pluginsFile": "tests/cypress/plugins/index.js",
+    "videosFolder": "tests/cypress/videos",
+    "ignoreTestFiles": [
+        "**/examples/*",
+        "**/__snapshots__/*",
+        "**/__image_snapshots__/*"
+    ],
+    "chromeWebSecurity": false,
+    "env": {
+    },
+    "defaultCommandTimeout": 15000
+}
