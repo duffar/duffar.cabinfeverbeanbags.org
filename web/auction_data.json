@@ -2,7 +2,7 @@
   "auctionGroups": {
     "standard": [
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=626980&viewType=1&style=74&font=0&catName=Games",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=626980&viewType=1&style=54&font=0&catName=Games",
         "desc": "Tic Tac Toe Game",
         "img": "https://www.biddingowl.com/Images/Items/2019/01/11/LG_1547238052491.png",
         "value": "Priceless",
@@ -10,7 +10,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=626981&viewType=1&style=74&font=0&catName=Tools",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=626981&viewType=1&style=54&font=0&catName=Tools",
         "desc": "MN Vikings Toolbox",
         "img": "https://www.biddingowl.com/Images/Items/2019/01/11/LG_1547238284593.png",
         "value": "Priceless",
@@ -18,7 +18,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=626983&viewType=1&style=74&font=0&catName=Clothing%20and%20Accessories",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=626983&viewType=1&style=54&font=0&catName=Clothing%20and%20Accessories",
         "desc": "Dunn Brothers Coffee Bag",
         "img": "https://www.biddingowl.com/Images/Items/2019/01/11/LG_1547238446059.png",
         "value": "Priceless",
@@ -26,7 +26,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=626984&viewType=1&style=74&font=0&catName=Household",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=626984&viewType=1&style=54&font=0&catName=Household",
         "desc": "Rose Pillow",
         "img": "https://www.biddingowl.com/Images/Items/2019/01/11/LG_1547238577744.png",
         "value": "Priceless",
@@ -34,7 +34,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=626987&viewType=1&style=74&font=0&catName=Household",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=626987&viewType=1&style=54&font=0&catName=Household",
         "desc": "Queen Size Comforter",
         "img": "https://www.biddingowl.com/Images/Items/2019/01/11/LG_1547238703818.png",
         "value": "Priceless",
@@ -42,7 +42,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=626989&viewType=1&style=74&font=0&catName=Clothing%20and%20Accessories",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=626989&viewType=1&style=54&font=0&catName=Clothing%20and%20Accessories",
         "desc": "Snuggie",
         "img": "https://www.biddingowl.com/Images/Items/2019/01/11/LG_1547238913305.png",
         "value": "Priceless",
@@ -50,7 +50,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=626991&viewType=1&style=74&font=0&catName=Household",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=626991&viewType=1&style=54&font=0&catName=Household",
         "desc": "Brown Throw",
         "img": "https://www.biddingowl.com/Images/Items/2019/01/11/LG_1547238974714.png",
         "value": "Priceless",
@@ -58,7 +58,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=626992&viewType=1&style=74&font=0&catName=Household",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=626992&viewType=1&style=54&font=0&catName=Household",
         "desc": "Grey Throw",
         "img": "https://www.biddingowl.com/Images/Items/2019/01/11/LG_1547239052682.png",
         "value": "Priceless",
@@ -66,7 +66,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=626993&viewType=1&style=74&font=0&catName=Clothing%20and%20Accessories",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=626993&viewType=1&style=54&font=0&catName=Clothing%20and%20Accessories",
         "desc": "Khakhi Backpack",
         "img": "https://www.biddingowl.com/Images/Items/2019/01/11/LG_1547239156989.png",
         "value": "Priceless",
@@ -74,7 +74,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=626995&viewType=1&style=74&font=0&catName=Household",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=626995&viewType=1&style=54&font=0&catName=Household",
         "desc": "Grey Jersey Queen Sheet Set",
         "img": "https://www.biddingowl.com/Images/Items/2019/01/11/LG_1547239234859.png",
         "value": "Priceless",
@@ -82,7 +82,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=626996&viewType=1&style=74&font=0&catName=Kitchen",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=626996&viewType=1&style=54&font=0&catName=Kitchen",
         "desc": "Deep Covered Glass Baker",
         "img": "https://www.biddingowl.com/Images/Items/2019/01/11/LG_1547239331888.png",
         "value": "Priceless",
@@ -90,7 +90,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=626998&viewType=1&style=74&font=0&catName=Kitchen",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=626998&viewType=1&style=54&font=0&catName=Kitchen",
         "desc": "Glass Salad Bowl Set",
         "img": "https://www.biddingowl.com/Images/Items/2019/01/11/LG_1547239710698.png",
         "value": "Priceless",
@@ -98,7 +98,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=627001&viewType=1&style=74&font=0&catName=Household",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=627001&viewType=1&style=54&font=0&catName=Household",
         "desc": "Inflatable Air Bed and Pump",
         "img": "https://www.biddingowl.com/Images/Items/2019/01/11/LG_1547239579930.png",
         "value": "Priceless",
@@ -106,7 +106,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=627002&viewType=1&style=74&font=0&catName=Kitchen",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=627002&viewType=1&style=54&font=0&catName=Kitchen",
         "desc": "Cast Iron Griddle",
         "img": "https://www.biddingowl.com/Images/Items/2019/01/11/LG_1547239774138.png",
         "value": "Priceless",
@@ -114,7 +114,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=627003&viewType=1&style=74&font=0&catName=Kitchen",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=627003&viewType=1&style=54&font=0&catName=Kitchen",
         "desc": "Cast Iron Fry Pan",
         "img": "https://www.biddingowl.com/Images/Items/2019/01/11/LG_1547239871417.png",
         "value": "Priceless",
@@ -122,7 +122,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=627004&viewType=1&style=74&font=0&catName=Household",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=627004&viewType=1&style=54&font=0&catName=Household",
         "desc": "Electronic Bathroom Scale",
         "img": "https://www.biddingowl.com/Images/Items/2019/01/11/LG_1547239952158.png",
         "value": "Priceless",
@@ -130,7 +130,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=627006&viewType=1&style=74&font=0&catName=Kitchen",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=627006&viewType=1&style=54&font=0&catName=Kitchen",
         "desc": "Frigidaire Cookware",
         "img": "https://www.biddingowl.com/Images/Items/2019/01/11/LG_1547240033807.png",
         "value": "Priceless",
@@ -138,7 +138,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=627009&viewType=1&style=74&font=0&catName=Kitchen",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=627009&viewType=1&style=54&font=0&catName=Kitchen",
         "desc": "3 Bowl Condiment Set",
         "img": "https://www.biddingowl.com/Images/Items/2019/01/11/LG_1547240148190.png",
         "value": "Priceless",
@@ -146,7 +146,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=627010&viewType=1&style=74&font=0&catName=Sports",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=627010&viewType=1&style=54&font=0&catName=Sports",
         "desc": "Pine Island Golf Course",
         "img": "https://www.biddingowl.com/Images/Items/2019/01/11/LG_1547240363222.png",
         "value": "Priceless",
@@ -154,7 +154,7 @@
         "details": "4 players for 18 holes including cart rental"
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=627013&viewType=1&style=74&font=0&catName=Gift%20Certificates",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=627013&viewType=1&style=54&font=0&catName=Gift%20Certificates",
         "desc": "Bob The Bug Man Gift Certificate",
         "img": "https://www.biddingowl.com/Images/Items/2019/01/11/LG_1547240571418.png",
         "value": "$200.00",
@@ -162,7 +162,7 @@
         "details": "Pest Control Treatment for residence"
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=627014&viewType=1&style=74&font=0&catName=Gift%20Certificates",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=627014&viewType=1&style=54&font=0&catName=Gift%20Certificates",
         "desc": "Mercury Mosaics Gift Certificates",
         "img": "https://www.biddingowl.com/Images/Items/2019/01/11/LG_1547240852709.png",
         "value": "Priceless",
@@ -170,7 +170,7 @@
         "details": "Mosiac Class"
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=627017&viewType=1&style=74&font=0&catName=Gift%20Certificates",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=627017&viewType=1&style=54&font=0&catName=Gift%20Certificates",
         "desc": "National Karate Gift Certificates",
         "img": "https://www.biddingowl.com/Images/Items/2019/01/11/LG_1547241025824.png",
         "value": "Priceless",
@@ -178,7 +178,7 @@
         "details": "5 months of classes and free uniforms"
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641372&viewType=1&style=74&font=0&catName=Household",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641372&viewType=1&style=54&font=0&catName=Household",
         "desc": "Pastel Quilt",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/09/LG_1549730536039.png",
         "value": "Priceless",
@@ -186,7 +186,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641374&viewType=1&style=74&font=0&catName=Food%20and%20Beverage",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641374&viewType=1&style=54&font=0&catName=Food%20and%20Beverage",
         "desc": "KC Barbeque Basket",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/09/LG_1549730643215.png",
         "value": "Priceless",
@@ -194,7 +194,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641379&viewType=1&style=74&font=0&catName=Food%20and%20Beverage",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641379&viewType=1&style=54&font=0&catName=Food%20and%20Beverage",
         "desc": "Salsa Basket",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/09/LG_1549730793208.png",
         "value": "Priceless",
@@ -202,7 +202,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641381&viewType=1&style=74&font=0&catName=Household",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641381&viewType=1&style=54&font=0&catName=Household",
         "desc": "Throw",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/09/LG_1549730924725.png",
         "value": "Priceless",
@@ -210,7 +210,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641382&viewType=1&style=74&font=0&catName=Personal%20Care",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641382&viewType=1&style=54&font=0&catName=Personal%20Care",
         "desc": "Hair and Cosmetic Basket",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/09/LG_1549731146264.png",
         "value": "Priceless",
@@ -218,7 +218,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641385&viewType=1&style=74&font=0&catName=Collectables",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641385&viewType=1&style=54&font=0&catName=Collectables",
         "desc": "Crocheted Forest Animals",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/09/LG_1549731427126.png",
         "value": "Priceless",
@@ -226,7 +226,7 @@
         "details": "Crocheted Racoon, Skunk and Fox"
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641386&viewType=1&style=74&font=0&catName=Collectables",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641386&viewType=1&style=54&font=0&catName=Collectables",
         "desc": "Crocheted Moose and Reindeer",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/09/LG_1549731512476.png",
         "value": "Priceless",
@@ -234,7 +234,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641387&viewType=1&style=74&font=0&catName=Collectables",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641387&viewType=1&style=54&font=0&catName=Collectables",
         "desc": "Crocheted Bird, Owl and Beaver",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/09/LG_1549731601715.png",
         "value": "Priceless",
@@ -242,7 +242,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641389&viewType=1&style=74&font=0&catName=Household",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641389&viewType=1&style=54&font=0&catName=Household",
         "desc": "MN Wall Hanging",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/09/LG_1549731735891.png",
         "value": "Priceless",
@@ -250,7 +250,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641390&viewType=1&style=74&font=0&catName=Household",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641390&viewType=1&style=54&font=0&catName=Household",
         "desc": "Wooden MN",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/09/LG_1549731825327.png",
         "value": "Priceless",
@@ -258,7 +258,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641392&viewType=1&style=74&font=0&catName=Household",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641392&viewType=1&style=54&font=0&catName=Household",
         "desc": "MN Wild Wall Hanging",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/09/LG_1549731934162.png",
         "value": "Priceless",
@@ -266,7 +266,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641393&viewType=1&style=74&font=0&catName=Household",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641393&viewType=1&style=54&font=0&catName=Household",
         "desc": "MN Vikings Wall Hanging",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/09/LG_1549732014370.png",
         "value": "Priceless",
@@ -274,7 +274,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641394&viewType=1&style=74&font=0&catName=Household",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641394&viewType=1&style=54&font=0&catName=Household",
         "desc": "Bourbon Lamp",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/09/LG_1549732117741.png",
         "value": "Priceless",
@@ -282,7 +282,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641397&viewType=1&style=74&font=0&catName=Household",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641397&viewType=1&style=54&font=0&catName=Household",
         "desc": "Dishmat, Dishcloths and Hanging Towels",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/09/LG_1549732382570.png",
         "value": "Priceless",
@@ -290,7 +290,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641399&viewType=1&style=74&font=0&catName=Household",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641399&viewType=1&style=54&font=0&catName=Household",
         "desc": "Potholders and Hanging Towels",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/09/LG_1549732465828.png",
         "value": "Priceless",
@@ -298,7 +298,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641402&viewType=1&style=74&font=0&catName=Baby%20and%20Kids",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641402&viewType=1&style=54&font=0&catName=Baby%20and%20Kids",
         "desc": "Purple Baby Blanket",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/09/LG_1549732663620.png",
         "value": "Priceless",
@@ -306,7 +306,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641403&viewType=1&style=74&font=0&catName=Baby%20and%20Kids",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641403&viewType=1&style=54&font=0&catName=Baby%20and%20Kids",
         "desc": "Green Baby Blanket",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/09/LG_1549732741907.png",
         "value": "Priceless",
@@ -314,7 +314,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641404&viewType=1&style=74&font=0&catName=Baby%20and%20Kids",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641404&viewType=1&style=54&font=0&catName=Baby%20and%20Kids",
         "desc": "Yellow Baby Blanket",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/09/LG_1549732805195.png",
         "value": "Priceless",
@@ -322,7 +322,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641405&viewType=1&style=74&font=0&catName=Antiques%20and%20Art",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641405&viewType=1&style=54&font=0&catName=Antiques%20and%20Art",
         "desc": "\"It Started with Blue\"",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/09/LG_1549732937890.png",
         "value": "Priceless",
@@ -330,7 +330,7 @@
         "details": "Encaustic Painting"
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641407&viewType=1&style=74&font=0&catName=Antiques%20and%20Art",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641407&viewType=1&style=54&font=0&catName=Antiques%20and%20Art",
         "desc": "\"Sanctuary\"",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/09/LG_1549733049958.png",
         "value": "Priceless",
@@ -338,7 +338,7 @@
         "details": "Encaustic Painting"
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641410&viewType=1&style=74&font=0&catName=Antiques%20and%20Art",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641410&viewType=1&style=54&font=0&catName=Antiques%20and%20Art",
         "desc": "\"Storm's Coming\"",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/09/LG_1549733183420.png",
         "value": "Priceless",
@@ -346,7 +346,7 @@
         "details": "Encaustic Painting"
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641413&viewType=1&style=74&font=0&catName=Antiques%20and%20Art",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641413&viewType=1&style=54&font=0&catName=Antiques%20and%20Art",
         "desc": "\"Where the Wild Things Grow\"",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/09/LG_1549733325426.png",
         "value": "Priceless",
@@ -354,7 +354,7 @@
         "details": "Encaustic Painting"
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641414&viewType=1&style=74&font=0&catName=Food%20and%20Beverage",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=641414&viewType=1&style=54&font=0&catName=Food%20and%20Beverage",
         "desc": "Pasta Extravaganza Basket",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/09/LG_1549733452688.png",
         "value": "Priceless",
@@ -362,7 +362,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=643080&viewType=1&style=74&font=0&catName=Antiques%20and%20Art",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=643080&viewType=1&style=54&font=0&catName=Antiques%20and%20Art",
         "desc": "Gnome Home",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/11/LG_1549917896231.png",
         "value": "Priceless",
@@ -370,7 +370,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=643083&viewType=1&style=74&font=0&catName=Furniture",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=643083&viewType=1&style=54&font=0&catName=Furniture",
         "desc": "Pine Table",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/11/LG_1549918028067.png",
         "value": "Priceless",
@@ -378,7 +378,7 @@
         "details": "2'x4'"
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=643084&viewType=1&style=74&font=0&catName=Antiques%20and%20Art",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=643084&viewType=1&style=54&font=0&catName=Antiques%20and%20Art",
         "desc": "Cherry Welcome Log Sign",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/11/LG_1549918178489.png",
         "value": "Priceless",
@@ -386,15 +386,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=646439&viewType=1&style=74&font=0&catName=Games",
-        "desc": "MN Wild Bean Bag Boards",
-        "img": "https://www.biddingowl.com/Images/Items/2019/02/19/LG_1550612464857.png",
-        "value": "Priceless",
-        "name": "Donated Anonymously",
-        "details": ""
-      },
-      {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=646441&viewType=1&style=74&font=0&catName=Games",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=646441&viewType=1&style=54&font=0&catName=Games",
         "desc": "MN Vikings Bean Bag Boards",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/19/LG_1550612560171.png",
         "value": "Priceless",
@@ -402,7 +394,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=646443&viewType=1&style=74&font=0&catName=Games",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=646443&viewType=1&style=54&font=0&catName=Games",
         "desc": "Green Bay Packers Bean Bag Boards",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/19/LG_1550612729149.png",
         "value": "Priceless",
@@ -410,7 +402,7 @@
         "details": ""
       },
       {
-        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=646811&viewType=1&style=74&font=0&catName=Antiques%20and%20Art",
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=646811&viewType=1&style=54&font=0&catName=Antiques%20and%20Art",
         "desc": "St Patrick's Day Basket",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/20/LG_1550678286405.png",
         "value": "Priceless",
