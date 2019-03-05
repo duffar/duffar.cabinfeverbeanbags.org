@@ -263,7 +263,7 @@ Meteor.methods({
 
       console.log('reading workbook...');
     //   var infile = srcDir + '/2018 Team Spreadsheet.xlsx';
-      var infile = srcDir + '/Registration 02.25.19.xlsx';
+      var infile = srcDir + '/Registration - FINAL VERSION.xlsx';
       shell.ls(srcDir);
       shell.ls(infile);
       if (!shell.test('-f', infile)) {
