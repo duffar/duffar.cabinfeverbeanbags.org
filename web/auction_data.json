@@ -198,7 +198,7 @@
         "desc": "Salsa Basket",
         "img": "https://www.biddingowl.com/Images/Items/2019/02/09/LG_1549730793208.png",
         "value": "Priceless",
-        "name": "Doeothy Hoopman-Lentz",
+        "name": "Dorothy Hoopman-Lentz",
         "details": ""
       },
       {
@@ -408,6 +408,790 @@
         "value": "Priceless",
         "name": "Tom and Doreen Gillard Jason and Laura Maschka",
         "details": "St Patrick's Day Basket"
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=658864&viewType=1&style=54&font=0&catName=Food%20and%20Beverage",
+        "desc": "Waffle Basket",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551894682414.png",
+        "value": "Priceless",
+        "name": "Kris and Dick Hust",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=658874&viewType=1&style=54&font=0&catName=Games",
+        "desc": "Kubb Game",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551894776408.png",
+        "value": "Priceless",
+        "name": "Kris and Dick Hust",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=658881&viewType=1&style=54&font=0&catName=Antiques%20and%20Art",
+        "desc": "\"Red Bud Lane\" Turkey Print",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551894833909.png",
+        "value": "Priceless",
+        "name": "Luckey Family",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=658882&viewType=1&style=54&font=0&catName=Antiques%20and%20Art",
+        "desc": "\"Tough Call\"  Turkey Print",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551895250177.png",
+        "value": "Priceless",
+        "name": "Luckey Family",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=658883&viewType=1&style=54&font=0&catName=Antiques%20and%20Art",
+        "desc": "\"King of the Countryside\"  Turkey Print",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551895340733.png",
+        "value": "Priceless",
+        "name": "Luckey Family",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=658884&viewType=1&style=54&font=0&catName=Food%20and%20Beverage",
+        "desc": "Honey",
+        "img": "https://www.biddingowl.com/Auction/images/lg-itemHolder2.jpg",
+        "value": "Priceless",
+        "name": "Scott Priebe",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=658885&viewType=1&style=54&font=0&catName=Food%20and%20Beverage",
+        "desc": "Honey",
+        "img": "https://www.biddingowl.com/Auction/images/lg-itemHolder2.jpg",
+        "value": "Priceless",
+        "name": "Scott Priebe",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=658887&viewType=1&style=54&font=0&catName=Gift%20Certificates",
+        "desc": "$100 Gift Certificate",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551895569244.png",
+        "value": "Priceless",
+        "name": "Heartland Tire",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=658888&viewType=1&style=54&font=0&catName=Food%20and%20Beverage",
+        "desc": "Yerba Mate Tea Basket",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551895625731.png",
+        "value": "Priceless",
+        "name": "Yerba Mate",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=658890&viewType=1&style=54&font=0&catName=Food%20and%20Beverage",
+        "desc": "Half a Hog",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551895719243.png",
+        "value": "Priceless",
+        "name": "Mike Patterson",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=658891&viewType=1&style=54&font=0&catName=Food%20and%20Beverage",
+        "desc": "Half a Hog",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551895765576.png",
+        "value": "Priceless",
+        "name": "Mike Patterson",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=658893&viewType=1&style=54&font=0&catName=Food%20and%20Beverage",
+        "desc": "Half a Hog",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551895810541.png",
+        "value": "Priceless",
+        "name": "Mike Patterson",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=658897&viewType=1&style=54&font=0&catName=Gift%20Certificates",
+        "desc": "$1000 Credit for Self Storage",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551895933410.png",
+        "value": "Priceless",
+        "name": "All Climate Storage",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=658898&viewType=1&style=54&font=0&catName=Collectables",
+        "desc": "Autographed Ari Lehman Jason Mask from Friday the 13th",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551896056503.png",
+        "value": "Priceless",
+        "name": "Gage Family",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=658901&viewType=1&style=54&font=0&catName=Sports",
+        "desc": "MN Twins Sign",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551896175326.png",
+        "value": "Priceless",
+        "name": "Steve Gage",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=658903&viewType=1&style=54&font=0&catName=Autographed%20Sports",
+        "desc": "Autographed Diggs Minnesota Vikings Jersey",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551896509448.png",
+        "value": "Priceless",
+        "name": "Gage Family",
+        "details": "Size XL"
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=658904&viewType=1&style=54&font=0&catName=Autographed%20Sports",
+        "desc": "Signed Cobb Green Bay Packers Jersey",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551896619573.png",
+        "value": "Priceless",
+        "name": "Gage Family",
+        "details": "Size XL"
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=658908&viewType=1&style=54&font=0&catName=Autographed%20Sports",
+        "desc": "Autographed Ball, Cap, and Bat  ",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551896772382.png",
+        "value": "Priceless",
+        "name": "Northwoods League",
+        "details": "Apparel also included (unsigned)"
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=658997&viewType=1&style=54&font=0&catName=Baby%20and%20Kids",
+        "desc": "Easter Basket with Penguin",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551899092691.png",
+        "value": "Priceless",
+        "name": "Sveen Family",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=658999&viewType=1&style=54&font=0&catName=Baby%20and%20Kids",
+        "desc": "Easter Basket with Bear",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551899404449.png",
+        "value": "Priceless",
+        "name": "Sveen Family",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=659002&viewType=1&style=54&font=0&catName=Baby%20and%20Kids",
+        "desc": "Easter Basket with Bear",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551899374021.png",
+        "value": "Priceless",
+        "name": "Sveen Family",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=659004&viewType=1&style=54&font=0&catName=Baby%20and%20Kids",
+        "desc": "Kubota Toy Set",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551899828525.png",
+        "value": "Priceless",
+        "name": "",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=659006&viewType=1&style=54&font=0&catName=Baby%20and%20Kids",
+        "desc": "Kubota Small Tractors",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551899855762.png",
+        "value": "Priceless",
+        "name": "Mark Douglas",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=659008&viewType=1&style=54&font=0&catName=Tools",
+        "desc": "58 Piece Craftsman Tool Set",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551899726171.png",
+        "value": "Priceless",
+        "name": "Mark Douglas",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=659009&viewType=1&style=54&font=0&catName=Everything%20Else",
+        "desc": "Vehicle Organization Set",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551899806989.png",
+        "value": "Priceless",
+        "name": "Lars and Cindy Swenson",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=659014&viewType=1&style=54&font=0&catName=Clothing%20and%20Accessories",
+        "desc": "Tote Bag",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551899910816.png",
+        "value": "Priceless",
+        "name": "Lars and Cindy Swenson",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=659018&viewType=1&style=54&font=0&catName=Clothing%20and%20Accessories",
+        "desc": "Coach Wallet",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551900031668.png",
+        "value": "Priceless",
+        "name": "Lars and Cindy Swenson",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=659021&viewType=1&style=54&font=0&catName=Clothing%20and%20Accessories",
+        "desc": "Coach Handbag",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551900118965.png",
+        "value": "Priceless",
+        "name": "Lars and Cindy Swenson",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=659022&viewType=1&style=54&font=0&catName=Household",
+        "desc": "MN Vikings Cooler",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551900276146.png",
+        "value": "Priceless",
+        "name": "Lars and Cindy Swenson",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=659025&viewType=1&style=54&font=0&catName=Sports",
+        "desc": "MN Vikings Shirts, Frisbee and Hat",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551900347138.png",
+        "value": "Priceless",
+        "name": "Lars and Cindy Swenson",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=659028&viewType=1&style=54&font=0&catName=Everything%20Else",
+        "desc": "Drone",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551900547846.png",
+        "value": "Priceless",
+        "name": "Donated Anonymously",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=659033&viewType=1&style=54&font=0&catName=TV%20and%20Movies",
+        "desc": "Movie Basket",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551900988891.png",
+        "value": "Priceless",
+        "name": "Nick and Brianna Floberg",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=659041&viewType=1&style=54&font=0&catName=Clothing%20and%20Accessories",
+        "desc": "MN Gophers Basket",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551901458229.png",
+        "value": "Priceless",
+        "name": "Camy Couture",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=659042&viewType=1&style=54&font=0&catName=Clothing%20and%20Accessories",
+        "desc": "State of MN Basket",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/06/LG_1551901490870.png",
+        "value": "Priceless",
+        "name": "Camy Couture",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=659885&viewType=1&style=54&font=0&catName=Personal%20Care",
+        "desc": "Mary Kay Beach Basket",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/07/LG_1551993044163.png",
+        "value": "Priceless",
+        "name": "Mary Kay Cosmetics",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=659916&viewType=1&style=54&font=0&catName=Clothing%20and%20Accessories",
+        "desc": "Vikings Stadium Jacket and Mittens",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/07/LG_1551995249035.png",
+        "value": "Priceless",
+        "name": "Knights of Columbus Council 14145",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=659918&viewType=1&style=54&font=0&catName=Personal%20Care",
+        "desc": "60 Minute Massage and Aveda Products",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/07/LG_1551995278716.png",
+        "value": "Priceless",
+        "name": "Lasata Salon",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=659921&viewType=1&style=54&font=0&catName=Personal%20Care",
+        "desc": "Haircare Basket and Gift Certificate to Barbershop for Men",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/07/LG_1551995314631.png",
+        "value": "Priceless",
+        "name": "Barbershop for Men",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662931&viewType=1&style=54&font=0&catName=Clothing%20and%20Accessories",
+        "desc": "iPhone 7 Plus Phone Case with Storage and Mirror ",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552328617460.png",
+        "value": "Priceless",
+        "name": "Eyn Products",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662934&viewType=1&style=54&font=0&catName=Clothing%20and%20Accessories",
+        "desc": "iPhone 7 Case with Mirror and Storage (Pale Dogwood)",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552328822257.png",
+        "value": "Priceless",
+        "name": "Eyn Products",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662935&viewType=1&style=54&font=0&catName=Clothing%20and%20Accessories",
+        "desc": "iPhone 7 Case with Storage and Mirror (Greenery)",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552328772316.png",
+        "value": "Priceless",
+        "name": "Eyn Products",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662936&viewType=1&style=54&font=0&catName=Clothing%20and%20Accessories",
+        "desc": "iPhone 7 Case with Storage and Mirror (Flame)",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552328900212.png",
+        "value": "Priceless",
+        "name": "Eyn Products",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662938&viewType=1&style=54&font=0&catName=Clothing%20and%20Accessories",
+        "desc": "iPhone 6 Plus Case with Storage and Mirror (Turquoise)",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552328997691.png",
+        "value": "Priceless",
+        "name": "Eyn Products",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662940&viewType=1&style=54&font=0&catName=Clothing%20and%20Accessories",
+        "desc": "iPhone 6 Plus Case with Storage and Mirror (White)",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552329122882.png",
+        "value": "Priceless",
+        "name": "Eyn Products",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662941&viewType=1&style=54&font=0&catName=Clothing%20and%20Accessories",
+        "desc": "iPhone 6 Plus Case with Storage and Mirror (Black)",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552329192548.png",
+        "value": "Priceless",
+        "name": "Eyn Products",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662944&viewType=1&style=54&font=0&catName=Clothing%20and%20Accessories",
+        "desc": "iPhone 6 Plus Case with Storage and Mirror (Purple)",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552329270740.png",
+        "value": "Priceless",
+        "name": "Eyn Products",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662945&viewType=1&style=54&font=0&catName=Toys%20and%20Games",
+        "desc": "\"Waspinator\" Transformer",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552329946051.png",
+        "value": "Priceless",
+        "name": "BigBad Toy Store",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662946&viewType=1&style=54&font=0&catName=Toys%20and%20Games",
+        "desc": "\"Chromia\" Transformer",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552329423424.png",
+        "value": "Priceless",
+        "name": "BigBad Toy Store",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662949&viewType=1&style=54&font=0&catName=Toys%20and%20Games",
+        "desc": "\"Chromia\" Transformer",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552329488028.png",
+        "value": "Priceless",
+        "name": "BigBad Toy Store",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662958&viewType=1&style=54&font=0&catName=Toys%20and%20Games",
+        "desc": "\"Arcee\" Transformer",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552330052827.png",
+        "value": "Priceless",
+        "name": "Eyn Products",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662961&viewType=1&style=54&font=0&catName=Toys%20and%20Games",
+        "desc": "\"Arcee\" Transformer",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552330115826.png",
+        "value": "Priceless",
+        "name": "BigBad Toy Store",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662962&viewType=1&style=54&font=0&catName=Toys%20and%20Games",
+        "desc": "\"Windblade\" Transformer",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552330181430.png",
+        "value": "Priceless",
+        "name": "BigBad Toy Store",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662963&viewType=1&style=54&font=0&catName=Toys%20and%20Games",
+        "desc": "\"Autobot Scoop\" Transformer",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552330240155.png",
+        "value": "Priceless",
+        "name": "BigBad Toy Store",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662965&viewType=1&style=54&font=0&catName=Toys%20and%20Games",
+        "desc": "\"Nightbeat\" Transformer",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552330307867.png",
+        "value": "Priceless",
+        "name": "BigBad Toy Store",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662968&viewType=1&style=54&font=0&catName=Food%20and%20Beverage",
+        "desc": "Two Pounds Moka Coffee and Travel Mug",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552330478078.png",
+        "value": "Priceless",
+        "name": "Moka Coffee",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662971&viewType=1&style=54&font=0&catName=Antiques%20and%20Art",
+        "desc": "Wooden American Flag",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552330551384.png",
+        "value": "Priceless",
+        "name": "Buck's Boards",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662972&viewType=1&style=54&font=0&catName=Antiques%20and%20Art",
+        "desc": "\"Flip Cup Pour\" Painting in Green/Blue/Purple",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552330687581.png",
+        "value": "Priceless",
+        "name": "Scott Priebe",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662975&viewType=1&style=54&font=0&catName=Antiques%20and%20Art",
+        "desc": "\"Flip Cup Pour\" Painting in Black/White/Grey",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552330751217.png",
+        "value": "Priceless",
+        "name": "Scott Priebe",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662977&viewType=1&style=54&font=0&catName=Antiques%20and%20Art",
+        "desc": "\"Flip Cup Pour\" Painting in Red/Yellow",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552330811060.png",
+        "value": "Priceless",
+        "name": "Scott Priebe",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662980&viewType=1&style=54&font=0&catName=Antiques%20and%20Art",
+        "desc": "\"Flip Cup Pour\" Painting in Planet/Moon",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552331062938.png",
+        "value": "Priceless",
+        "name": "Scott Priebe",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662983&viewType=1&style=54&font=0&catName=Health%20and%20Fitness",
+        "desc": "1 Month Membership at the RAC",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552331147882.png",
+        "value": "Priceless",
+        "name": "Rochester Athletic Club",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662985&viewType=1&style=54&font=0&catName=Entertainment",
+        "desc": "DJ/Karaoke Services for 4 Hours",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552331255571.png",
+        "value": "Priceless",
+        "name": "Ottomatic Karaoke",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662988&viewType=1&style=54&font=0&catName=Collectables",
+        "desc": "Bud Light Metal Sign",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552331327123.png",
+        "value": "Priceless",
+        "name": "",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662990&viewType=1&style=54&font=0&catName=Collectables",
+        "desc": "Goose Island Beer Sign",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552331384877.png",
+        "value": "Priceless",
+        "name": "Schott Distributing",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662991&viewType=1&style=54&font=0&catName=Collectables",
+        "desc": "Budweiser 2017 Stein",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552331465005.png",
+        "value": "Priceless",
+        "name": "Schott Distributing",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662994&viewType=1&style=54&font=0&catName=Collectables",
+        "desc": "Budweiser 2017 Stein",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552331592479.png",
+        "value": "Priceless",
+        "name": "Schott Distributing",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662995&viewType=1&style=54&font=0&catName=Collectables",
+        "desc": "Golden Road Brewing Metal Signs (3)",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552331746135.png",
+        "value": "Priceless",
+        "name": "Schott Distributing",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=662998&viewType=1&style=54&font=0&catName=Collectables",
+        "desc": "Michelob Ultra Lighted Sign",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552331819435.png",
+        "value": "Priceless",
+        "name": "Schott Distributing",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663000&viewType=1&style=54&font=0&catName=Food%20and%20Beverage",
+        "desc": "Margarita Basket",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552331914160.png",
+        "value": "Priceless",
+        "name": "Friends of Cabin Fever",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663002&viewType=1&style=54&font=0&catName=Games",
+        "desc": "Ladder Golf",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552331989711.png",
+        "value": "Priceless",
+        "name": "Kris and Dick Hust",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663003&viewType=1&style=54&font=0&catName=Antiques%20and%20Art",
+        "desc": "Driftwood and Colored Epoxy Candle Holder",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552332045450.png",
+        "value": "Priceless",
+        "name": "Scott Priebe",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663005&viewType=1&style=54&font=0&catName=Antiques%20and%20Art",
+        "desc": "Oak Burl Candle Holder",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552332106967.png",
+        "value": "Priceless",
+        "name": "Scott Priebe",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663006&viewType=1&style=54&font=0&catName=Antiques%20and%20Art",
+        "desc": "Drift Wood Candle Holder",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552332161839.png",
+        "value": "Priceless",
+        "name": "Scott Priebe",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663007&viewType=1&style=54&font=0&catName=Food%20and%20Beverage",
+        "desc": "Wine Purse",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552332222202.png",
+        "value": "Priceless",
+        "name": "Cherry Street Properties",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663012&viewType=1&style=54&font=0&catName=Food%20and%20Beverage",
+        "desc": "Wine Purse",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552332337415.png",
+        "value": "Priceless",
+        "name": "Cherry Street Properties",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663015&viewType=1&style=54&font=0&catName=Everything%20Else",
+        "desc": "Planter and Bird House",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552332442494.png",
+        "value": "Priceless",
+        "name": "Room & Board",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663017&viewType=1&style=54&font=0&catName=Everything%20Else",
+        "desc": "Tailgating Kettle Grill",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552332524235.png",
+        "value": "Priceless",
+        "name": "Schott Distributing",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663018&viewType=1&style=54&font=0&catName=Household",
+        "desc": "Cancer Ribbon Quilt",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552333557320.png",
+        "value": "Priceless",
+        "name": "David and Sharon Fasbender",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663019&viewType=1&style=54&font=0&catName=Collectables",
+        "desc": "2006 Longaberger Horizon of Hope Basket",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552332668321.png",
+        "value": "Priceless",
+        "name": "Patti Rogers",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663020&viewType=1&style=54&font=0&catName=Collectables",
+        "desc": "2001 Longaberger Horizon of Hope Basket",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552332735842.png",
+        "value": "Priceless",
+        "name": "Patti Rogers",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663021&viewType=1&style=54&font=0&catName=Collectables",
+        "desc": "2010 Longaberger Horizon of Hope Basket",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552332786921.png",
+        "value": "Priceless",
+        "name": "Patti Rogers",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663030&viewType=1&style=54&font=0&catName=Collectables",
+        "desc": "2007 Longaberger Basket of Hope",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552333595010.png",
+        "value": "Priceless",
+        "name": "Patti Rogers",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663031&viewType=1&style=54&font=0&catName=Collectables",
+        "desc": "2009 Longaberger Basket of Hope",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552333515116.png",
+        "value": "Priceless",
+        "name": "Patti Rogers",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663035&viewType=1&style=54&font=0&catName=Collectables",
+        "desc": "2002 Longaberger Basket of Hope",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552333738739.png",
+        "value": "Priceless",
+        "name": "Patti Rogers",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663036&viewType=1&style=54&font=0&catName=Collectables",
+        "desc": "2004 Longaberger Basket of Hope",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552333826870.png",
+        "value": "Priceless",
+        "name": "Patti Rogers",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663040&viewType=1&style=54&font=0&catName=Collectables",
+        "desc": "2003 Longaberger Basket of Hope",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552333942833.png",
+        "value": "Priceless",
+        "name": "Patti Rogers",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663041&viewType=1&style=54&font=0&catName=Collectables",
+        "desc": "2008 Longaberger Basket of Hope",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552334026062.png",
+        "value": "Priceless",
+        "name": "Patti Rogers",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663044&viewType=1&style=54&font=0&catName=Collectables",
+        "desc": "2005 Longaberger Basket of Hope",
+        "img": "https://www.biddingowl.com/Images/Items/2019/03/11/LG_1552334094969.png",
+        "value": "Priceless",
+        "name": "Patti Rogers",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663046&viewType=1&style=54&font=0&catName=Games",
+        "desc": "Bean Bag Boards",
+        "img": "https://www.biddingowl.com/Auction/images/lg-itemHolder3.jpg",
+        "value": "Priceless",
+        "name": "Amish Electric",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663049&viewType=1&style=54&font=0&catName=Furniture",
+        "desc": "Small End Table",
+        "img": "https://www.biddingowl.com/Auction/images/lg-itemHolder3.jpg",
+        "value": "Priceless",
+        "name": "Amish Electric",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663050&viewType=1&style=54&font=0&catName=Games",
+        "desc": "Mini Boards and Bags",
+        "img": "https://www.biddingowl.com/Auction/images/lg-itemHolder3.jpg",
+        "value": "Priceless",
+        "name": "Amish Electric",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663052&viewType=1&style=54&font=0&catName=Everything%20Else",
+        "desc": "Raised Pet Bed and Food Dish",
+        "img": "https://www.biddingowl.com/Auction/images/lg-itemHolder3.jpg",
+        "value": "Priceless",
+        "name": "",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663054&viewType=1&style=54&font=0&catName=Games",
+        "desc": "Bowl-A-Rama Game",
+        "img": "https://www.biddingowl.com/Auction/images/lg-itemHolder3.jpg",
+        "value": "Priceless",
+        "name": "",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663306&viewType=1&style=54&font=0&catName=Food%20and%20Beverage",
+        "desc": "Bloody Mary Basket",
+        "img": "https://www.biddingowl.com/Auction/images/lg-itemHolder3.jpg",
+        "value": "Priceless",
+        "name": "Adam and Non Bratten",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663309&viewType=1&style=54&font=0&catName=Sports",
+        "desc": "Bow & Arrow Set",
+        "img": "https://www.biddingowl.com/Auction/images/lg-itemHolder3.jpg",
+        "value": "Priceless",
+        "name": "Adam and Non Bratten",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663310&viewType=1&style=54&font=0&catName=Everything%20Else",
+        "desc": "2\" Autumn Blaze Maple Tree ",
+        "img": "https://www.biddingowl.com/Auction/images/lg-itemHolder3.jpg",
+        "value": "Priceless",
+        "name": "DeCook Landscaping",
+        "details": "Includes Installation"
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663311&viewType=1&style=54&font=0&catName=Food%20and%20Beverage",
+        "desc": "Meat Bundle",
+        "img": "https://www.biddingowl.com/Auction/images/lg-itemHolder3.jpg",
+        "value": "Priceless",
+        "name": "Huettl's Meats",
+        "details": ""
+      },
+      {
+        "href": "/Auction/item-detail.cfm?auctionID=16721&ItemID=663312&viewType=1&style=54&font=0&catName=Household",
+        "desc": "3.2 Cubic Ft Black & Decker Mini Fridge with Freezer",
+        "img": "https://www.biddingowl.com/Auction/images/lg-itemHolder3.jpg",
+        "value": "Priceless",
+        "name": "Hy Vee",
+        "details": ""
       }
     ]
   }
